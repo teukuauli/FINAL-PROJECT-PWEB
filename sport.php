@@ -36,8 +36,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="tb-menu">
-                            <a href="Register.html" class="nav-item nav-link">Register</a>
-                            <a href="Login.html" class="nav-item nav-link">Login</a>
+                            <a href="Register.php" class="nav-item nav-link">Register</a>
+                            <a href="Login.php" class="nav-item nav-link">Login</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="b-logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                                 
@@ -80,11 +80,11 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.html" class="nav-item nav-link">Home</a>
-                            <a href="sport.html" class="nav-item nav-link">Sports</a>
-                            <a href="Entartaiment.html" class="nav-item nav-link">Entartaiment</a>
-                            <a href="Politics.html" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.html" class="nav-item nav-link">Technology</a>
+                            <a href="index.php" class="nav-item nav-link">Home</a>
+                            <a href="sport.php" class="nav-item nav-link">Sports</a>
+                            <a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a>
+                            <a href="Politics.php" class="nav-item nav-link">Politics</a>
+                            <a href="Technology.php" class="nav-item nav-link">Technology</a>
                         </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
@@ -117,17 +117,71 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/razman.webp" />
+                                <img src="img/ronaldo world cup.jpg" />
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Sidang Razman Arif Nasution Vs Richard Lee Berlangsung Ricuh</h1>
+                                <h1 class="sn-title">World Cup 2022: Cristiano Ronaldo a 'total genius' for winning Portugal penalty - Fifa</h1>
                                 <p>
-                                    Sidang kasus gugatan Razman Arif Nasution terhadap dokter kecantikan Richard Lee sempat terjadi kericuhan. Sidang yang digelar di Pengadilan Negeri Jakarta Pusat ini menghadirkan saksi ahli dan saksi fakta dari Razman selaku penggugat. "Catatan saya dalam persidangan ini, ya tadi memang ada sedikit keributan, sebagai kuasa hukum itu adalah suatu ketidakprofesionalan dari kuasa hukum tergugat di mana logika sesat," kata Bintomawi Siregar, kuasa hukum Razman, saat ditemui usai sidang, Selasa (20/9/2022).
+                                    Cristiano Ronaldo has been called a "total genius" by Fifa for the way in which he won a penalty for Portugal in their World Cup victory over Ghana.
 
+                                    The 37-year-old converted from the spot to become the first man to score at five different Fifa World Cups.
+
+                                    Portugal won 3-2, but the awarding of the spot-kick outraged Ghana boss Otto Addo, who said it was "not a penalty".
+
+                                    At a briefing in Doha, Fifa technical study group (TSG) member Sunday Oliseh said strikers are "getting smarter".
+
+                                    The TSG, which is led by former Arsenal manager Arsene Wenger, looks at each match and provides analysis including performance data and trends.
                                 </p>
                                 <p>
-                                    Bintomawi menuturkan pihak Richard Lee terlalu melebar dalam melontarkan pertanyaan, termasuk bertanya soal kode etik dan pengadilan pajak. "(Padahal) itu ada tempatnya, bukan persoalan perdata," ujar Bintomawi. Tim kuasa hukum Razman tidak terima dengan sikap tim kuasa hukum Richard Lee karena pertanyaan tersebut diajukan berulang kali. "Itu ditanyakan berulang kali oleh kuasa hukum tergugat. Jadi kesesatan berpikir logika hukum dari kuasa hukum tergugat sangat kami sayangkan," ujarnya. Bintomawi mengatakan, pertanyaan seperti itu justru tidak menunjukkan keprofesionalan dalam bekerja sebagai kuasa hukum. "Sebagai pengacara profesional, seperti baru belajar sidang menurut kami, kami mohon maaf bila ada kekacauan, tapi kami maksud tidak perlu terjadi," ungkap Bintomawi.
+                                    After 20 games in this tournament, nine penalties have been awarded, which is on track to reach the previous record of 24 that were given in the group stages in Russia four years ago.
 
+Poland's Robert Lewandowski and Canada's Alphonso Davies have seen their efforts saved, while the remaining seven have been scored.
+
+This includes Ronaldo, who went down under a challenge from Southampton defender Mohammed Salisu. Former England defender Matt Upson, speaking on BBC Radio 5 Live, called it a "dive".
+
+Ghana boss Addo was left fuming after the defeat and told BeIN Sports: "The referee gave a penalty which was not a penalty - everyone saw that. Why? Because it's Ronaldo or something?
+
+"The referee was not in our favour."
+
+But former Nigeria international Oliseh, who played at the 1998 World Cup, feels Ronaldo was clever in his movement to win the penalty that allowed him to score his 118th international goal.
+
+"Maybe the strikers are getting smarter?" said Oliseh.
+
+"The Ronaldo penalty, people can say what they want about him, but the smartness to wait for that second, to touch the ball, continue his leg and then get the contact. That is total genius.
+
+"Let's give strikers the compliment for getting smarter. VAR is also a major reason why this (more penalties being awarded) is happening. Referees can look at it three or four times."
+
+'Teams will become braver'
+There were four goalless games in the opening 16 matches, which set a new record of 25% in the first round of group games.
+
+A fifth followed on Friday as England and the United States played out a stalemate in their second game of the tournament in Qatar.
+
+The record number of 0-0 draws at the World Cup stands at seven, which happened at four different editions of the tournament, but Qatar 2022 is already close to that tally with only 20 of the 64 scheduled games completed before Saturday's matches.
+
+At the last World Cup in Russia, there was one goalless draw, between Denmark and France in a group game.
+
+"Teams have not wanted to take too much of a risk," said Oliseh.
+
+"Clearly many teams are relying on a cautious approach," added colleague Alberto Zaccheroni, who won Serie A with AC Milan and the Asian Cup when he was coach of Japan.
+
+"But as the tournament progresses we will see teams become a bit braver."
+
+Players 'feeling comfortable' with matchball
+A total of 49 goals have been scored in the 20 matches played by the end of Friday, 25 November.
+
+The first round of 16 games did not see a single goal scored from outside the box. Two have been scored from distance in the four games so far played in the second round of matches, which is significantly fewer than at this stage in the past two tournaments.
+
+Iran's Roozbeh Cheshmi broke the trend on Friday with a rasping strike against Wales, while later in the day, the Netherlands forward Cody Gakpo scored in a 1-1 draw with Ecuador.
+
+The 'Al Rihla' match ball developed for the World Cup is described by Fifa as "travelling faster than any ball" in the tournament's history.
+
+Global football's governing also said the ball "provides the highest levels of accuracy and reliability on the field of play".
+
+TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cup, told BBC Sport: "Technology has improved the game, it is helping the ball, boots, gloves, data. Everything is for the improvement of the game.
+
+"When you have good shooters, any kind of ball will be fast and dangerous. I have spoken with friends from all over the world, this is a ball they are all feeling comfortable with.
+
+"Us goalkeepers are always talking about the fast moving ball but everything is for the good of the game."
                                 </p>
                             </div>
                         </div>
@@ -136,33 +190,33 @@
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/putink.jpg" />
+                                        <img src="img/tunsia.webp" />
                                         <div class="sn-title">
-                                            <a href="">Putin’s winter of inhumanity takes Ukraine war and US aid to a new level</a>
+                                            <a href="">Australia boost qualification chances with 1-0 win over Tunisia</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/biden meet prince and princess.jpg" />
+                                        <img src="img/arab team news.webp" />
                                         <div class="sn-title">
-                                            <a href="">Biden to greet Prince and Princess of Wales while in Boston</a>
+                                            <a href="">Arab teams turn Qatar World Cup into a ‘home’ tournament</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/trump.jpg" />
+                                        <img src="img/WCGROUP.webp" />
                                         <div class="sn-title">
-                                            <a href="">Lawmaker explains what Democrats are planning to do with Trump's tax documents</a>
+                                            <a href="">What are the World Cup 2022 groups?</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/cool trump.jpg" />
+                                        <img src="img/ISITFOTVALL.webp" />
                                         <div class="sn-title">
-                                            <a href="">Trump’s rough day in court ends with a double defeat</a>
+                                            <a href="">World Cup 2022: Why Americans call it soccer</a>
                                         </div>
                                     </div>
                                 </div>
@@ -235,84 +289,84 @@
                                         <div id="popular" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/senate.jpg" />
+                                                    <img src="img/news-350x223-4.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Schumer: Senate will not leave without a freight rail agreement</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/biden and macron.jpg" />
+                                                    <img src="img/news-350x223-3.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Biden and Macron show united front ahead of bilateral meeting</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/monkeypox.jpg" />
+                                                    <img src="img/news-350x223-2.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">White House eyes end of mpox emergency</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/biden in paris.webp" />
+                                                    <img src="img/news-350x223-1.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Biden enters a new type of tango with Paris</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/china protest.jpg" />
+                                                    <img src="img/news-350x223-2.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">U.S. believes China protests won’t spread — for now</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div id="latest" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/avert arail.webp" />
+                                                    <img src="img/news-350x223-3.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Congress Is Trying to Avert a Rail Strike. Here’s How and Why</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/water system in jackson.webp" />
+                                                    <img src="img/news-350x223-4.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Justice Dept. Strikes Deal to Address Struggling Water System in Jackson</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/mccarty investigate.webp" />
+                                                    <img src="img/news-350x223-5.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">McCarthy Warns Jan. 6 Committee Republicans Will Investigate Its Work</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/in georgia pace keep calm.webp" />
+                                                    <img src="img/news-350x223-4.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">In Georgia, Walker’s Pace in the Finish Worries Republican Allies</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/nato grow.webp" />
+                                                    <img src="img/news-350x223-3.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">NATO Nations Grow More Receptive to U.S. Pleas to Confront China</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                         </div>

@@ -1,3 +1,10 @@
+<?php
+require 'actionpage\connection.php';
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -36,8 +43,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="tb-menu">
-                            <a href="Register.html" class="nav-item nav-link">Register</a>
-                            <a href="Login.html" class="nav-item nav-link">Login</a>
+                            <a href="Register.php" class="nav-item nav-link">Register</a>
+                            <a href="Login.php" class="nav-item nav-link">Login</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +58,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="b-logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                                 
@@ -80,11 +87,11 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.html" class="nav-item nav-link">Home</a>
-                            <a href="sport.html" class="nav-item nav-link">Sports</a>
-                            <a href="Entartaiment.html" class="nav-item nav-link">Entartaiment</a>
-                            <a href="Politics.html" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.html" class="nav-item nav-link">Technology</a> 
+                            <a href="index.php" class="nav-item nav-link">Home</a>
+                            <a href="sport.php" class="nav-item nav-link">Sports</a>
+                            <a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a>
+                            <a href="Politics.php" class="nav-item nav-link">Politics</a>
+                            <a href="Technology.php" class="nav-item nav-link">Technology</a> 
                         </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
@@ -111,25 +118,31 @@
         <!-- Breadcrumb End -->
         
         <!-- Single News Start-->
-        <form action="action_page.php" method="post">
-            </div>
-          
+        <form action="Register.php"method="post">
             <div class="container">
-              <label for="uname"><b>Username</b></label>
-              <input type="text" placeholder="Enter Username" name="uname" required>
+              <h1>Register</h1>
+              <p>Please fill in this form to create an account.</p>
+              <hr>
+            </div>
+              <label for="email"><b>Email</b></label>
+              <input type="text" placeholder="Enter Email" name="email" id="email" required>
+            </div>
+              <label for="username"><b>Username</b></label>
+              <input type="username" placeholder="Enter username" name="username" id="username" required>
           
               <label for="psw"><b>Password</b></label>
-              <input type="password" placeholder="Enter Password" name="psw" required>
+              <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
           
-              <button type="submit">Login</button>
-              <label>
-                <input type="checkbox" checked="checked" name="remember"> Remember me
-              </label>
+              <label for="psw-repeat"><b>Repeat Password</b></label>
+              <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+              <hr>
+          
+              <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+              <button type="submit" name="save" class="registerbtn">Register</button>
             </div>
           
-            <div class="container" style="background-color:#f1f1f1">
-              <button type="button" class="cancelbtn">Cancel</button>
-              <span class="psw"><a href="#">Forgot password?</a></span>
+            <div class="container signin">
+              <p>Already have an account? <a href="#">Sign in</a>.</p>
             </div>
           </form>
         <!-- Single News End-->        
@@ -220,5 +233,31 @@
 
         <!-- Template Javascript -->
         <script src="js/main.js"></script>
+
     </body>
+    <?php
+    if(isset($_POST['save']))
+    {	
+         $username = $_POST['username'];
+         $email = $_POST['email'];
+         $password = $_POST['psw'];
+
+         if ($_POST["psw"] === $_POST["psw-repeat"]) {
+            // success!
+         $sql_query="insert into register (username,email,password) values ('$username','$email','$password')";
+    
+         if (mysqli_query($conn, $sql_query)) 
+         {
+            echo "New Details Entry inserted successfully !";
+         } 
+         else
+         {
+            echo "Error: " . $sql . "" . mysqli_error($conn);
+         }
+         mysqli_close($conn);
+
+        }
+
+    }
+    ?>
 </html>

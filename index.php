@@ -36,8 +36,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="tb-menu">
-                            <a href="Register.html" class="nav-item nav-link">Register</a>
-                            <a href="Login.html" class="nav-item nav-link">Login</a>
+                            <a href="Register.php" class="nav-item nav-link">Register</a>
+                            <a href="Login.php" class="nav-item nav-link">Login</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="b-logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                         </div>
@@ -82,11 +82,11 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.html" class="nav-item nav-link">Home</a>
-                            <a href="sport.html" class="nav-item nav-link">Sports</a>
-                            <a href="Entartaiment.html" class="nav-item nav-link">Entartaiment</a>
-                            <a href="Politics.html" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.html" class="nav-item nav-link">Technology</a>
+                            <a href="index.php" class="nav-item nav-link">Home</a>
+                            <a href="sport.php" class="nav-item nav-link">Sports</a>
+                            <a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a>
+                            <a href="Politics.php" class="nav-item nav-link">Politics</a>
+                            <a href="Technology.php" class="nav-item nav-link">Technology</a>
                         </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
@@ -173,7 +173,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2><a href="sport.html" class="nav-item nav-link">Sports</a></h2>
+                        <h2><a href="sport.php" class="nav-item nav-link">Sports</a></h2>
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
@@ -202,7 +202,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <h2><a href="Technology.html" class="nav-item nav-link">Technology</a></h2>
+                        <h2><a href="Technology.php" class="nav-item nav-link">Technology</a></h2>
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
@@ -240,7 +240,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2><a href="Entartaiment.html" class="nav-item nav-link">Entartaiment</a></h2>
+                        <h2><a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a></h2>
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
@@ -269,7 +269,7 @@
                         </div>
                     </div>
                     <div class="col-md-6">
-                        <h2><a href="Politics.html" class="nav-item nav-link">Politics</a></h2>
+                        <h2><a href="Politics.php" class="nav-item nav-link">Politics</a></h2>
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
