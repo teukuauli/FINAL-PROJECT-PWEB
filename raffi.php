@@ -51,7 +51,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="b-logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                                 
@@ -80,7 +80,7 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.html" class="nav-item nav-link">Home</a>
+                            <a href="index.php" class="nav-item nav-link">Home</a>
                             <a href="sport.html" class="nav-item nav-link">Sports</a>
                             <a href="Entartaiment.html" class="nav-item nav-link">Entartaiment</a>
                             <a href="Politics.html" class="nav-item nav-link">Politics</a>

@@ -111,17 +111,17 @@
                         <div class="row tn-slider">
                             <div class="col-md-6">
                                 <div class="tn-img">
-                                    <img src="img/news-450x350-1.jpg" />
+                                    <img src="img/rkuhp.jpeg" />
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="tn-img">
-                                    <img src="img/news-450x350-2.jpg" />
+                                    <img src="img/australia alert ri.jpeg" />
                                     <div class="tn-title">
-                                        <a  href="">Integer hendrerit elit eget purus sodales maximus</a>
+                                        <a  href="">Alert! Australia Resmi Keluarkan 'Travel Warning' untuk RI</a>
                                     </div>
                                 </div>
                             </div>
@@ -131,33 +131,33 @@
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="tn-img">
-                                    <img src="img/news-350x223-1.jpg" />
+                                    <img src="img/outside sex.webp" />
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">Indonesia passes criminal code banning sex outside marriage</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="tn-img">
-                                    <img src="img/news-350x223-2.jpg" />
+                                    <img src="img/bali bomber.webp" />
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">Umar Patek: Anger and fear in Australia as Bali bomber freed</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="tn-img">
-                                    <img src="img/news-350x223-3.jpg" />
+                                    <img src="img/new criminal code.webp" />
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">Indonesia: New Criminal Code Disastrous for Rights</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="tn-img">
-                                    <img src="img/news-350x223-4.jpg" />
+                                    <img src="img/lawmaker pass.jpg" />
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">Lawmakers pass revised Criminal Code despite protests</a>
                                     </div>
                                 </div>
                             </div>
@@ -273,9 +273,9 @@
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-2.jpg" />
+                                    <img src="img/razman.webp" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">Sidang Razman Arif Nasution Vs Richard Lee Berlangsung Ricuh</a>
                                     </div>
                                 </div>
                             </div>
