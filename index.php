@@ -84,7 +84,7 @@
                         <div class="navbar-nav mr-auto">
                             <a href="index.php" class="nav-item nav-link">Home</a>
                             <a href="sport.php" class="nav-item nav-link">Sports</a>
-                            <a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a>
+                            <a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a>
                             <a href="Politics.php" class="nav-item nav-link">Politics</a>
                             <a href="Technology.php" class="nav-item nav-link">Technology</a>
                         </div>
@@ -113,7 +113,7 @@
                                 <div class="tn-img">
                                     <img src="img/rkuhp.jpeg" />
                                     <div class="tn-title">
-                                        <a href="">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
+                                        <a href="rkuhp.php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
                                     </div>
                                 </div>
                             </div>
@@ -240,7 +240,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">
-                        <h2><a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a></h2>
+                        <h2><a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a></h2>
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">

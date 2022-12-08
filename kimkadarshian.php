@@ -51,7 +51,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="b-logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                                 
@@ -98,14 +98,7 @@
         </div>
         <!-- Nav Bar End -->
         
-        <!-- Breadcrumb Start -->
-        <div class="breadcrumb-wrap">
-            <div class="container">
-                <ul class="breadcrumb">
-                </ul>
-            </div>
-        </div>
-        <!-- Breadcrumb End -->
+       
         
         <!-- Single News Start-->
         <div class="single-news">
@@ -114,18 +107,25 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/raffi ahmad.webp"/>
+                                <img src="img/kim.jpg"/>
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Raffi Ahmad sekeluarga nonton piala dunia di Qatar</h1>
+                                <h1 class="sn-title">Kim Kardashian and Kanye West reach divorce settlement</h1>
                                 <p>
-                                    Meninggalkan sejenak kegiatannya di Tanah Air, Raffi Ahmad dan keluarga terbang ke Qatar untuk menyaksikan secara langsung Piala Dunia 2022 yang dihelat di Stadion Al Bayt, Al Khor. Menurutnya, Qatar dan Indonesia memiliki kesamaan dari segi cuaca yang panas. Kendati begitu, Raffi Ahmad merasa jika para penonton Piala Dunia 2022 lebih teratur.
+                               
+Kim Kardashian and Kanye West have come to a divorce agreement, a source with knowledge of the negotiations tells CNN.
+
+Per the agreement, a draft of which was obtained by CNN, Kardashian will receive $200,000 per month in child support from West, who last year legally changed his name to Ye, and share joint custody of their four children.
                                 </p>
                                 <p>
-                                    Bersama putra sulungnya Rafathar, Raffi Ahmad menyaksikan deretan pertandingan di Piala Dunia 2022, diantaranya Inggris versus Iran, Argentina versus Arab Saudi, hingga Jerman versus Jepang.
+                                In March 2022, Kardashian was declared legally single after being granted a request to change her marital status.
+
+In an interview with Vogue earlier this year, the Skims founder explained what led to her high-profile split, saying, that “for so long, I did what made other people happy” and that she decided “I’m going to make myself happy.”
                                 </p>
                                 <p>
-                                    Mengetahui Rafathar sangat mengidolakan sosok Lionel Messi, Raffi Ahmad juga sempat berencana untuk mendatangi hotel tempat sang legenda sepak bola menginap untuk berfoto bersama.
+                                In September, West, who in the latter part of this year has lost multiple business partnerships following a string of antisemitic comments, publicly apologized to Kardashian in an interview with “Good Morning America” for “any stress” he’s caused her.
+
+“This is the mother of my children, and I apologize for any stress that I have caused, even in my frustration because God calls me to be stronger,” West said.
                                 </p>
                             </div>
                         </div>
@@ -134,9 +134,9 @@
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/news-825x825.jpg" />
+                                        <img src="img/raffi ahmad.webp" />
                                         <div class="sn-title">
-                                            <a href="Entertaiment.php">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</a>
+                                            <a href="raffi.php">Raffi Ahmad Sekeluarga Nonton di Qatar</a>
                                         </div>
                                     </div>
                                 </div>
@@ -174,6 +174,9 @@
                             <div class="sidebar-widget">
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
+                                        <li class="nav-item">
+                                            <a class="nav-link active" data-toggle="pill" href="#featured">Featured</a>
+                                        </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
@@ -214,7 +217,7 @@
                                                     <img src="img/billie.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Billie Eilish really happy about relationship with Jesse Rutherford</a>
+                                                    <a href="billieellish.php">Billie Eilish really happy about relationship with Jesse Rutherford</a>
                                                 </div>
                                             </div>
                                         </div>

@@ -82,7 +82,7 @@
                         <div class="navbar-nav mr-auto">
                             <a href="index.php" class="nav-item nav-link">Home</a>
                             <a href="sport.php" class="nav-item nav-link">Sports</a>
-                            <a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a>
+                            <a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a>
                             <a href="Politics.php" class="nav-item nav-link">Politics</a>
                             <a href="Technology.php" class="nav-item nav-link">Technology</a>
                         </div>
@@ -107,6 +107,7 @@
         </div>
         <!-- Breadcrumb End -->
         
+        
         <!-- Single News Start-->
         <div class="single-news">
             <div class="container">
@@ -117,15 +118,15 @@
                                 <img src="img/apple.jpeg" />
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Apple Pelanggan Terbesar Chip 'Made in America', iPhone Lebih Canggih?</h1>
+                                <h1 class="sn-title">Apple's Biggest Customer of 'Made in America' Chip, More Sophisticated iPhone?</h1>
                                 <p>
-                                TSMC adalah perusahaan khusus yang membuat dan merancang chip untuk perusahaan lain. Perusahaan seperti Apple, AMD, dan NVIDIA adalah beberapa pelanggan terbesarnya, bahkan Intel mengandalkan TSMC untuk membuat prosesor tercanggih.
+                                TSMC is a specialty company that manufactures and designs chips for other companies. Companies like Apple, AMD, and NVIDIA are some of its biggest customers, and even Intel relies on TSMC to make the most advanced processors.
                                 <p>
-                                Apple berencana untuk mulai menggunakan prosesor buatan Amerika Serikat setelah pembukaan pabrik chip baru di Phoenix, Arizona, AS. Dengan fasilitas baru hasil kerja sama dengan pabrikan semikonduktor Taiwan, TSMC, ini, pasokan chip untuk perusahaan teknologi asal AS itu dianggap lebih aman, dengan waktu produksi yang lebih cepat.
+                                Apple plans to start using processors made in the United States following the opening of a new chip factory in Phoenix, Arizona, USA. With this new facility in collaboration with a Taiwanese semiconductor manufacturer, TSMC, chip supply for the technology company from the US is considered safer, with faster production times.
                                 <p>
-                                Pimpinan perusahaan Apple, AMD, dan NVIDIA mengonfirmasi mereka akan menjadi pelanggan pertama yang membeli chip dari pabrik di Arizona. "TSMC telah menjadi platform global tempat industri teknologi dunia dibangun. Membawa investasi TSMC ke Amerika Serikat adalah pukulan telak dan pengembangan yang mengubah permainan untuk industri ini," kata CEO NVIDIA Jensen Huang. Pelanggan TSMC tidak mengungkapkan berapa banyak chip yang mereka rencanakan untuk dibeli. Namun, chip 3 nm dan 4 nm buatan pabrik Arizona diklaim akan lebih canggih daripada yang mereka gunakan saat ini.
+                                Chief executives of Apple, AMD and NVIDIA confirmed they will be the first customers to buy chips from the Arizona plant. "TSMC has become the global platform on which the world's technology industry is built. Bringing TSMC's investment to the United States is a crushing blow and a game-changing development for the industry," said NVIDIA CEO Jensen Huang. TSMC's customers did not disclose how many chips they plan to buy. However, the 3nm and 4nm chips made by the Arizona factory are claimed to be more sophisticated than what they are currently using.
                                 <p>
-                                Pada saat pabrikan Arizona ini beroperasi, TSMC segera memproduksi chip yang lebih canggih di fasilitas luar negeri. Perusahaan berencana untuk memproduksi chip 2 nm pada 2025, menurut Nikkei Asia.
+                                By the time the Arizona manufacturer was operational, TSMC was soon producing more advanced chips at an overseas facility. The company plans to produce 2nm chips by 2025, according to Nikkei Asia.
                                 </p>
 
                             </div>
@@ -137,7 +138,7 @@
                                     <div class="sn-img">
                                         <img src="img/airpods.jpeg" />
                                         <div class="sn-title">
-                                            <a href="">Spek tersembunyi airpods apple</a>
+                                            <a href="airpods.php">Hidden specs in apple airpods</a>
                                         </div>
                                     </div>
                                 </div>
@@ -145,7 +146,7 @@
                                     <div class="sn-img">
                                         <img src="img/iphone.jpeg" />
                                         <div class="sn-title">
-                                            <a href="">Suplai iphone 14 tersendat jelang natal</a>
+                                            <a href="iphonesupp.php">iPhone 14 supplies faltered ahead of Christmas celebrations</a>
                                         </div>
                                     </div>
                                 </div>
@@ -153,7 +154,7 @@
                                     <div class="sn-img">
                                         <img src="img/logo apple.jpg" />
                                         <div class="sn-title">
-                                            <a href="">Apple bisa lacak pengguna meski pengaturan lokasi mati</a>
+                                            <a href="appletrack.php">Apple can track users even if the location setting is off</a>
                                         </div>
                                     </div>
                                 </div>
@@ -162,7 +163,7 @@
                                     <div class="sn-img">
                                         <img src="img/iphone kabel c.jpeg" />
                                         <div class="sn-title">
-                                            <a href="">Iphone akan pake kabel type c</a>
+                                            <a href="iptypeC.php">Iphone will use type c cable</a>
                                         </div>
                                     </div>
                                 </div>
@@ -179,9 +180,6 @@
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
                                         <li class="nav-item">
-                                            <a class="nav-link active" data-toggle="pill" href="#featured">Featured</a>
-                                        </li>
-                                        <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
                                         <li class="nav-item">
@@ -193,84 +191,86 @@
                                         <div id="featured" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/11.16.22_Messi-and-Ronaldos-Last-Dance_16x9.webp" />
+                                                    <img src="img/ponselthnair.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Messi and Ronaldo’s last dance</a>
+                                                    <a href="">some waterproof cellphones ready to be taken out in the rain</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/221117105439-lauren-ridloff.jpg" />
+                                                    <img src="img/ios16.png" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">‘I run to find peace,’ says Marvel actress Lauren Ridloff after finishing her first marathon</a>
+                                                    <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/baterai.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">The World's Electric Vehicles Depend on Indonesian Batteries</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/tvanalog.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">analog tv will stop operating on december 20th</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-5.jpg" />
+                                                    <img src="img/speedtest.jpg
+                                                    " />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">comparison of internet speed in RI and Singapore</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div id="popular" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/ponselthnair.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">some waterproof cellphones ready to be taken out in the rain</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/ios16.png" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-2.jpg" />
+                                                    <img src="img/baterai.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">The World's Electric Vehicles Depend on Indonesian Batteries</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-1.jpg" />
+                                                    <img src="img/tvanalog.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">analog tv will stop operating on december 20th</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-2.jpg" />
+                                                    <img src="img/speedtest.jpg
+                                                    " />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">comparison of internet speed in RI and Singapore</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -354,6 +354,26 @@
         </div>
         <!-- Single News End-->        
         
+        <div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://itsnews.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
         <!-- Footer Start -->
         <div class="footer">
             <div class="container">

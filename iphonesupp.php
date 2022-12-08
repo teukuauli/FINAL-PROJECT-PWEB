@@ -51,7 +51,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="b-logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                                 
@@ -98,14 +98,7 @@
         </div>
         <!-- Nav Bar End -->
         
-        <!-- Breadcrumb Start -->
-        <div class="breadcrumb-wrap">
-            <div class="container">
-                <ul class="breadcrumb">
-                </ul>
-            </div>
-        </div>
-        <!-- Breadcrumb End -->
+        
         
         <!-- Single News Start-->
         <div class="single-news">
@@ -114,19 +107,20 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/raffi ahmad.webp"/>
+                                <img src="img/iphone.jpeg"/>
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Raffi Ahmad sekeluarga nonton piala dunia di Qatar</h1>
+                                <h1 class="sn-title">iPhone 14 supplies faltered ahead of Christmas celebrations</h1>
+                                
                                 <p>
-                                    Meninggalkan sejenak kegiatannya di Tanah Air, Raffi Ahmad dan keluarga terbang ke Qatar untuk menyaksikan secara langsung Piala Dunia 2022 yang dihelat di Stadion Al Bayt, Al Khor. Menurutnya, Qatar dan Indonesia memiliki kesamaan dari segi cuaca yang panas. Kendati begitu, Raffi Ahmad merasa jika para penonton Piala Dunia 2022 lebih teratur.
-                                </p>
+                                Based on notes from last Friday, Ives said that during Black Friday, stores indicated a shortage of iPhones. The shortage of iPhone 14 is even estimated at 25 percent to 30 percent. Earlier this month, Apple said shipments of its newest iPhone lineup would be temporarily impacted by China's Covid-19 lockdown. The assembly facility in Zhengzhou, which normally accommodates around 200,000 workers, is currently operating at significantly reduced capacity due to the COVID-19 lockdown.
+
+                                <br>
+                                    </br>
+                                    Demonstrations at Apple's China assembly plant in recent days have added to the series of problems facing the company amid limited supply of components. This condition cannot be separated from the country's strict zero-covid policy to the detriment of this global technology company.
                                 <p>
-                                    Bersama putra sulungnya Rafathar, Raffi Ahmad menyaksikan deretan pertandingan di Piala Dunia 2022, diantaranya Inggris versus Iran, Argentina versus Arab Saudi, hingga Jerman versus Jepang.
-                                </p>
-                                <p>
-                                    Mengetahui Rafathar sangat mengidolakan sosok Lionel Messi, Raffi Ahmad juga sempat berencana untuk mendatangi hotel tempat sang legenda sepak bola menginap untuk berfoto bersama.
-                                </p>
+                                The trouble started last month when workers left the factory in Zhengzhou over a Covid-19 scare. Staff shortages mean companies are offering bonuses to workers for returning. However, protests erupted when newly recruited staff said management had broken their word. The workers had clashed with security officers.
+                            </p>
                             </div>
                         </div>
                         <div class="sn-related">
@@ -134,31 +128,34 @@
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/news-825x825.jpg" />
+                                        <img src="img/apple.jpeg" />
                                         <div class="sn-title">
-                                            <a href="Entertaiment.php">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</a>
+                                            <a href="Technology.php">Apple's Biggest Customer of 'Made in America' Chip, More Sophisticated iPhone?</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/film wondering.jpg" />
+                                        <img src="img/airpods.jpeg" />
                                         <div class="sn-title">
-                                            <a href="filmmoon.php">Film The Wondering Moon</a>
+                                            <a href="airpods.php">Hidden Specs in Apple's AirPods: Hearing Aids</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/lary exo.jpeg" />
+                                        <img src="img/logo apple.jpg" />
                                         <div class="sn-title">
-                                            <a href="layexo.php">Lay exo balik ke Korea. Exo Bakal comeback</a>
+                                            <a href="appletrack.php">Apple can track users even if the location setting is off</a>
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="col-md-4">
                                     <div class="sn-img">
+                                        <img src="img/iphone kabel c.jpeg" />
                                         <div class="sn-title">
+                                            <a href="iptypeC.php">Iphone will use type c cable</a>
                                         </div>
                                     </div>
                                 </div>
@@ -183,72 +180,87 @@
                                     </ul>
 
                                     <div class="tab-content">
-                                        <div id="popular" class="container tab-pane fade">
+                                    <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/stloco.jpg" />
+                                                    <img src="img/senate.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Tampil Energik, St. Loco Pamer Lagu Baru di Soundrenaline 2022</a>
+                                                    <a href="">Schumer: Senate will not leave without a freight rail agreement</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/kikiamalia.jpg" />
+                                                    <img src="img/biden and macron.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Kiki Amalia menikah lagi begini respons Iwan Fals</a>
+                                                    <a href="">Biden and Macron show united front ahead of bilateral meeting</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/Mbah_mijan_04.jpg" />
+                                                    <img src="img/monkeypox.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Apa hubungan Mbah Mijan dengan PM Malaysia Ibrahim
-                                                    </a>
+                                                    <a href="">White House eyes end of mpox emergency</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/billie.jpg" />
+                                                    <img src="img/biden in paris.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Billie Eilish really happy about relationship with Jesse Rutherford</a>
+                                                    <a href="">Biden enters a new type of tango with Paris</a>
+                                                </div>
+                                            </div>
+                                            <div class="tn-news">
+                                                <div class="tn-img">
+                                                    <img src="img/china protest.jpg" />
+                                                </div>
+                                                <div class="tn-title">
+                                                    <a href="">U.S. believes China protests won’t spread — for now</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div id="latest" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/jeniifer.jpg" />
+                                                    <img src="img/avert arail.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Jennifer Lopez returns to social media to announce This Is Me…Now</a>
+                                                    <a href="">Congress Is Trying to Avert a Rail Strike. Here’s How and Why</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/kim.jpg" />
+                                                    <img src="img/water system in jackson.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Kim Kardashian and Kanye West reach divorce settlement</a>
+                                                    <a href="">Justice Dept. Strikes Deal to Address Struggling Water System in Jackson</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/westlife.jpg" />
+                                                    <img src="img/mccarty investigate.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Westlife singer Mark Feehily pulls out of shows due to pneumonia</a>
+                                                    <a href="">McCarthy Warns Jan. 6 Committee Republicans Will Investigate Its Work</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/dualipa.png" />
+                                                    <img src="img/in georgia pace keep calm.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Pop star Dua Lipa made an Albanian citizen for 'making Albanians famous throughout the world'</a>
+                                                    <a href="">In Georgia, Walker’s Pace in the Finish Worries Republican Allies</a>
+                                                </div>
+                                            </div>
+                                            <div class="tn-news">
+                                                <div class="tn-img">
+                                                    <img src="img/nato grow.webp" />
+                                                </div>
+                                                <div class="tn-title">
+                                                    <a href="">NATO Nations Grow More Receptive to U.S. Pleas to Confront China</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -260,10 +272,10 @@
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-                                        <li><a href="">Sports</a><span>(98)</span></li>
-                                        <li><a href="">Entertainment</a><span>(87)</span></li>
-                                        <li><a href="">Technology</a><span>(76)</span></li>
-                                        <li><a href="">Politics</a><span>(65)</span></li>
+                                        <li><a href="sport.php">Sports</a><span>(98)</span></li>
+                                        <li><a href="Entertaiment.php">Entertainment</a><span>(87)</span></li>
+                                        <li><a href="Technology.php">Technology</a><span>(76)</span></li>
+                                        <li><a href="Politics.php">Politics</a><span>(65)</span></li>
                                     </ul>
                                 </div>
                             </div>
@@ -271,13 +283,12 @@
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">Tags Cloud</h2>
                                 <div class="tags">
-                                    <a href="">National</a>
-                                    <a href="">International</a>
-                                    <a href="">Economics</a>
-                                    <a href="">Politics</a>
-                                    <a href="">Lifestyle</a>
-                                    <a href="">Technology</a>
-                                    <a href="">Trades</a>
+                                    
+                                    <a href="sport.php">Sport</a>
+                                    <a href="Politics.php">Politics</a>
+                                    <a href="Entertaiment.php">Entertaiment</a>
+                                    <a href="Technology.php">Technology</a>
+                                    
                                 </div>
                             </div>
                         </div>

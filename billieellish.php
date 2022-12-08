@@ -51,7 +51,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="b-logo">
-                            <a href="index.html">
+                            <a href="index.php">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                                 
@@ -98,14 +98,7 @@
         </div>
         <!-- Nav Bar End -->
         
-        <!-- Breadcrumb Start -->
-        <div class="breadcrumb-wrap">
-            <div class="container">
-                <ul class="breadcrumb">
-                </ul>
-            </div>
-        </div>
-        <!-- Breadcrumb End -->
+       
         
         <!-- Single News Start-->
         <div class="single-news">
@@ -114,18 +107,26 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/raffi ahmad.webp"/>
+                                <img src="img/billie.jpg"/>
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Raffi Ahmad sekeluarga nonton piala dunia di Qatar</h1>
+                                <h1 class="sn-title">Billie Eilish really happy about relationship with Jesse Rutherford</h1>
                                 <p>
-                                    Meninggalkan sejenak kegiatannya di Tanah Air, Raffi Ahmad dan keluarga terbang ke Qatar untuk menyaksikan secara langsung Piala Dunia 2022 yang dihelat di Stadion Al Bayt, Al Khor. Menurutnya, Qatar dan Indonesia memiliki kesamaan dari segi cuaca yang panas. Kendati begitu, Raffi Ahmad merasa jika para penonton Piala Dunia 2022 lebih teratur.
+                                All is going well for Billie Eilish and her boyfriend Jesse Rutherford.
+
+The singer, 20, says she’s thrilled to be dating the Neighbourhood frontman, 31, despite criticism about their age difference.
+
+Eilish told Vanity Fair of her relationship: “It’s really cool and I’m really excited and I’m really happy about it.”
                                 </p>
                                 <p>
-                                    Bersama putra sulungnya Rafathar, Raffi Ahmad menyaksikan deretan pertandingan di Piala Dunia 2022, diantaranya Inggris versus Iran, Argentina versus Arab Saudi, hingga Jerman versus Jepang.
+                                She opened up about their relationship, saying her “love language” is “physical touch.”
+
+“Other than that, just like freedom…you know, I don’t want to be controlled,” she said. “I want to be trusted and I want to be able to have space and I want love and attention. And equal admiration is really important.
                                 </p>
                                 <p>
-                                    Mengetahui Rafathar sangat mengidolakan sosok Lionel Messi, Raffi Ahmad juga sempat berencana untuk mendatangi hotel tempat sang legenda sepak bola menginap untuk berfoto bersama.
+                                Eilish added that Rutherford inspires her and that she does the same for him. “It’s really cool,” she said.
+
+This is the sixth year Eilish has participated in an annual interview with the publication, which has become something of a tradition.
                                 </p>
                             </div>
                         </div>
@@ -134,9 +135,9 @@
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/news-825x825.jpg" />
+                                        <img src="img/raffi ahmad.webp" />
                                         <div class="sn-title">
-                                            <a href="Entertaiment.php">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</a>
+                                            <a href="raffi.php">Raffi Ahmad Sekeluarga Nonton di Qatar</a>
                                         </div>
                                     </div>
                                 </div>
@@ -174,6 +175,9 @@
                             <div class="sidebar-widget">
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
+                                        <li class="nav-item">
+                                            <a class="nav-link active" data-toggle="pill" href="#featured">Featured</a>
+                                        </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
@@ -232,7 +236,7 @@
                                                     <img src="img/kim.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Kim Kardashian and Kanye West reach divorce settlement</a>
+                                                    <a href="kimkadarshian.php">Kim Kardashian and Kanye West reach divorce settlement</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
