@@ -113,7 +113,7 @@
                                 <div class="tn-img">
                                     <img src="img/rkuhp.jpeg" />
                                     <div class="tn-title">
-                                        <a href="">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
+                                        <a href="rkuhp.php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
                                     </div>
                                 </div>
                             </div>
