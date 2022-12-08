@@ -1,9 +1,4 @@
 
-<?php
-require 'actionpage\connection.php';
-
-?>
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -129,7 +124,7 @@ require 'actionpage\connection.php';
               <input type="password" placeholder="Enter Password" name="pwd" id="pwd" required>
 
               <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-              <button type="submit" name= "login">Register</button>
+              <button type="submit" name= "login">Log in</button>
             </div>
 
         <!-- Single News End-->        

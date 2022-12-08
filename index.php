@@ -1,3 +1,10 @@
+<?php
+session_start();
+?>
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -38,6 +45,7 @@
                         <div class="tb-menu">
                             <a href="Register.php" class="nav-item nav-link">Register</a>
                             <a href="Login.php" class="nav-item nav-link">Login</a>
+                            <a href="Logout.php" class="nav-item nav-link">Logout</a>
                         </div>
                     </div>
                 </div>
