@@ -84,7 +84,7 @@
                             <a href="sport.php" class="nav-item nav-link">Sports</a>
                             <a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a>
                             <a href="Politics.php" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.php" class="nav-item nav-link">Technology</a>
+                            <a href="Technology.php" class="nav-item nav-link">Technology</a> 
                         </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
@@ -107,72 +107,17 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/ronaldo world cup.jpg" />
+                                <img src="img/senate.jpg"/>
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">World Cup 2022: Cristiano Ronaldo a 'total genius' for winning Portugal penalty - Fifa</h1>
+                                <h1 class="sn-title">Schumer: Senate will not leave without a freight rail agreement</h1>
+                                
                                 <p>
-                                    Cristiano Ronaldo has been called a "total genius" by Fifa for the way in which he won a penalty for Portugal in their World Cup victory over Ghana.
+                                “I’m very glad that the two sides got together to avoid a shutdown which would be devastating for the American people, the American economy and so many workers across the country,” Senate Majority Leader Chuck Schumer told reporters, shortly after a luncheon meeting with Transportation Secretary Pete Buttigieg and Labor Secretary Marty Walsh concluded.
+                                    <br>
+                                    </br>
 
-                                    The 37-year-old converted from the spot to become the first man to score at five different Fifa World Cups.
-
-                                    Portugal won 3-2, but the awarding of the spot-kick outraged Ghana boss Otto Addo, who said it was "not a penalty".
-
-                                    At a briefing in Doha, Fifa technical study group (TSG) member Sunday Oliseh said strikers are "getting smarter".
-
-                                    The TSG, which is led by former Arsenal manager Arsene Wenger, looks at each match and provides analysis including performance data and trends.
-                                </p>
-                                <p>
-                                    After 20 games in this tournament, nine penalties have been awarded, which is on track to reach the previous record of 24 that were given in the group stages in Russia four years ago.
-
-Poland's Robert Lewandowski and Canada's Alphonso Davies have seen their efforts saved, while the remaining seven have been scored.
-
-This includes Ronaldo, who went down under a challenge from Southampton defender Mohammed Salisu. Former England defender Matt Upson, speaking on BBC Radio 5 Live, called it a "dive".
-
-Ghana boss Addo was left fuming after the defeat and told BeIN Sports: "The referee gave a penalty which was not a penalty - everyone saw that. Why? Because it's Ronaldo or something?
-
-"The referee was not in our favour."
-
-But former Nigeria international Oliseh, who played at the 1998 World Cup, feels Ronaldo was clever in his movement to win the penalty that allowed him to score his 118th international goal.
-
-"Maybe the strikers are getting smarter?" said Oliseh.
-
-"The Ronaldo penalty, people can say what they want about him, but the smartness to wait for that second, to touch the ball, continue his leg and then get the contact. That is total genius.
-
-"Let's give strikers the compliment for getting smarter. VAR is also a major reason why this (more penalties being awarded) is happening. Referees can look at it three or four times."
-
-'Teams will become braver'
-There were four goalless games in the opening 16 matches, which set a new record of 25% in the first round of group games.
-
-A fifth followed on Friday as England and the United States played out a stalemate in their second game of the tournament in Qatar.
-
-The record number of 0-0 draws at the World Cup stands at seven, which happened at four different editions of the tournament, but Qatar 2022 is already close to that tally with only 20 of the 64 scheduled games completed before Saturday's matches.
-
-At the last World Cup in Russia, there was one goalless draw, between Denmark and France in a group game.
-
-"Teams have not wanted to take too much of a risk," said Oliseh.
-
-"Clearly many teams are relying on a cautious approach," added colleague Alberto Zaccheroni, who won Serie A with AC Milan and the Asian Cup when he was coach of Japan.
-
-"But as the tournament progresses we will see teams become a bit braver."
-
-Players 'feeling comfortable' with matchball
-A total of 49 goals have been scored in the 20 matches played by the end of Friday, 25 November.
-
-The first round of 16 games did not see a single goal scored from outside the box. Two have been scored from distance in the four games so far played in the second round of matches, which is significantly fewer than at this stage in the past two tournaments.
-
-Iran's Roozbeh Cheshmi broke the trend on Friday with a rasping strike against Wales, while later in the day, the Netherlands forward Cody Gakpo scored in a 1-1 draw with Ecuador.
-
-The 'Al Rihla' match ball developed for the World Cup is described by Fifa as "travelling faster than any ball" in the tournament's history.
-
-Global football's governing also said the ball "provides the highest levels of accuracy and reliability on the field of play".
-
-TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cup, told BBC Sport: "Technology has improved the game, it is helping the ball, boots, gloves, data. Everything is for the improvement of the game.
-
-"When you have good shooters, any kind of ball will be fast and dangerous. I have spoken with friends from all over the world, this is a ball they are all feeling comfortable with.
-
-"Us goalkeepers are always talking about the fast moving ball but everything is for the good of the game."
-                                </p>
+                                    The Senate voted Thursday to avert a freight rail strike just days before crucial drinking water, food and energy shipments were set to be sidelined, after hurried talks in both chambers of Congress and a visit to the Senate from two of President Joe Biden’s Cabinet secretaries — but a bipartisan push to add paid sick leave to the deal fell short. </p>
                             </div>
                         </div>
                         <div class="sn-related">
@@ -180,33 +125,33 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/tunsia.webp" />
+                                        <img src="img/putink.jpg" />
                                         <div class="sn-title">
-                                            <a href="tunisia.php">Australia boost qualification chances with 1-0 win over Tunisia</a>
+                                            <a href="putin.php">Putin’s winter of inhumanity takes Ukraine war and US aid to a new level</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/arab team news.webp" />
+                                        <img src="img/biden meet prince and princess.jpg" />
                                         <div class="sn-title">
-                                            <a href="arabteam.php">Arab teams turn Qatar World Cup into a ‘home’ tournament</a>
+                                            <a href="biden.php">Biden to greet Prince and Princess of Wales while in Boston</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/WCGROUP.webp" />
+                                        <img src="img/trumpdoc.jpg" />
                                         <div class="sn-title">
-                                            <a href="worldgroup.php">What are the World Cup 2022 groups?</a>
+                                            <a href="trumpdoc.php">Lawmaker explains what Democrats are planning to do with Trump's tax documents</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/ISITFOTVALL.webp" />
+                                        <img src="img/rkuhp.jpeg" />
                                         <div class="sn-title">
-                                            <a href="soccer.php">World Cup 2022: Why Americans call it soccer</a>
+                                            <a href="rkuhp.php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
                                         </div>
                                     </div>
                                 </div>
@@ -234,117 +179,112 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                     <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/rkuhp.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="rkuhp.php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/biden and macron.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Biden and Macron show united front ahead of bilateral meeting</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-2.jpg" />
+                                                    <img src="img/monkeypox.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">White House eyes end of mpox emergency</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-1.jpg" />
+                                                    <img src="img/biden in paris.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Biden enters a new type of tango with Paris</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-2.jpg" />
+                                                    <img src="img/china protest.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">U.S. believes China protests won’t spread — for now</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div id="latest" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/avert arail.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="avertrail.php">Congress Is Trying to Avert a Rail Strike. Here’s How and Why</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/water system in jackson.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Justice Dept. Strikes Deal to Address Struggling Water System in Jackson</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-5.jpg" />
+                                                    <img src="img/mccarty investigate.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">McCarthy Warns Jan. 6 Committee Republicans Will Investigate Its Work</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/in georgia pace keep calm.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">In Georgia, Walker’s Pace in the Finish Worries Republican Allies</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/nato grow.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">NATO Nations Grow More Receptive to U.S. Pleas to Confront China</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        
 
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-                                        
+                                        <li><a href="sport.php">Sports</a><span>(98)</span></li>
+                                        <li><a href="Entertaiment.php">Entertainment</a><span>(87)</span></li>
+                                        <li><a href="Technology.php">Technology</a><span>(76)</span></li>
                                         <li><a href="Politics.php">Politics</a><span>(65)</span></li>
-                                        <li><a href="Entertaiment.php">Entertaiment</a><span>(54)</span></li>
-                                        <li><a href="sport.php">sport</a><span>(43)</span></li>
-                                        <li><a href="Technology.php">Tech</a><span>(32)</span></li>
                                     </ul>
                                 </div>
                             </div>
 
-
-                            
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">Tags Cloud</h2>
                                 <div class="tags">
-                                    <a href="">National</a>
-                                    <a href="">International</a>
-                                    <a href="">Economics</a>
-                                    <a href="">Politics</a>
-                                    <a href="">Lifestyle</a>
-                                    <a href="">Technology</a>
-                                    <a href="">Trades</a>
+                                    
+                                    <a href="sport.php">Sport</a>
+                                    <a href="Politics.php">Politics</a>
+                                    <a href="Entertaiment.php">Entertaiment</a>
+                                    <a href="Technology.php">Technology</a>
+                                    
                                 </div>
                             </div>
                         </div>
@@ -353,6 +293,7 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
             </div>
         </div>
         <!-- Single News End-->        
+        
         <div id="disqus_thread"></div>
 <script>
     /**
@@ -372,6 +313,7 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
         <!-- Footer Start -->
         <div class="footer">
             <div class="container">

@@ -107,71 +107,32 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/ronaldo world cup.jpg" />
+                                <img src="img/soccer.webp" />
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">World Cup 2022: Cristiano Ronaldo a 'total genius' for winning Portugal penalty - Fifa</h1>
+                                <h1 class="sn-title">World Cup 2022: Why Americans call it soccer</h1>
                                 <p>
-                                    Cristiano Ronaldo has been called a "total genius" by Fifa for the way in which he won a penalty for Portugal in their World Cup victory over Ghana.
+                                In the 2022 World Cup anthem “Tokoh Taka”, US rapper Nicki Minaj proclaims: “Some say football, some say soccer.”
 
-                                    The 37-year-old converted from the spot to become the first man to score at five different Fifa World Cups.
-
-                                    Portugal won 3-2, but the awarding of the spot-kick outraged Ghana boss Otto Addo, who said it was "not a penalty".
-
-                                    At a briefing in Doha, Fifa technical study group (TSG) member Sunday Oliseh said strikers are "getting smarter".
-
-                                    The TSG, which is led by former Arsenal manager Arsene Wenger, looks at each match and provides analysis including performance data and trends.
+                                While many fans around the world find the term “soccer” strange, if not objectionable, that’s what Americans – as well as Canadians, South Africans and some Australians and Irish – call the sport.
                                 </p>
                                 <p>
-                                    After 20 games in this tournament, nine penalties have been awarded, which is on track to reach the previous record of 24 that were given in the group stages in Russia four years ago.
+<br>
+</br>
+As the US team took on England in their second match in Qatar, the familiar football-versus-soccer debate was reigniting off the pitch.
 
-Poland's Robert Lewandowski and Canada's Alphonso Davies have seen their efforts saved, while the remaining seven have been scored.
+Ahead of the US-England game on Friday, posts and memes stressing that “it’s not soccer” flooded social media, and a video shared by the publication Sports Illustrated showed US fans chanting, “It’s called soccer”.
 
-This includes Ronaldo, who went down under a challenge from Southampton defender Mohammed Salisu. Former England defender Matt Upson, speaking on BBC Radio 5 Live, called it a "dive".
+Here, Al Jazeera looks at the origins of the discrepancy in what the two English-speaking countries call the sport.
+<br>
+</br>
+It may sound counterintuitive, but the term “soccer” was not originally American. Like the modern sport itself, the name originated in Great Britain.
 
-Ghana boss Addo was left fuming after the defeat and told BeIN Sports: "The referee gave a penalty which was not a penalty - everyone saw that. Why? Because it's Ronaldo or something?
+As authors Silke-Maria Weineck and Stefan Szymanski explain in their book, It’s Football, Not Soccer (And Vice Versa), the formal name of the sport is “association football”. British university students in the late 19th century nicknamed it “soccer”, a twist on the second syllable of “association”.
 
-"The referee was not in our favour."
+But while British people stopped using the nickname decades ago, Americans stuck to it.
 
-But former Nigeria international Oliseh, who played at the 1998 World Cup, feels Ronaldo was clever in his movement to win the penalty that allowed him to score his 118th international goal.
 
-"Maybe the strikers are getting smarter?" said Oliseh.
-
-"The Ronaldo penalty, people can say what they want about him, but the smartness to wait for that second, to touch the ball, continue his leg and then get the contact. That is total genius.
-
-"Let's give strikers the compliment for getting smarter. VAR is also a major reason why this (more penalties being awarded) is happening. Referees can look at it three or four times."
-
-'Teams will become braver'
-There were four goalless games in the opening 16 matches, which set a new record of 25% in the first round of group games.
-
-A fifth followed on Friday as England and the United States played out a stalemate in their second game of the tournament in Qatar.
-
-The record number of 0-0 draws at the World Cup stands at seven, which happened at four different editions of the tournament, but Qatar 2022 is already close to that tally with only 20 of the 64 scheduled games completed before Saturday's matches.
-
-At the last World Cup in Russia, there was one goalless draw, between Denmark and France in a group game.
-
-"Teams have not wanted to take too much of a risk," said Oliseh.
-
-"Clearly many teams are relying on a cautious approach," added colleague Alberto Zaccheroni, who won Serie A with AC Milan and the Asian Cup when he was coach of Japan.
-
-"But as the tournament progresses we will see teams become a bit braver."
-
-Players 'feeling comfortable' with matchball
-A total of 49 goals have been scored in the 20 matches played by the end of Friday, 25 November.
-
-The first round of 16 games did not see a single goal scored from outside the box. Two have been scored from distance in the four games so far played in the second round of matches, which is significantly fewer than at this stage in the past two tournaments.
-
-Iran's Roozbeh Cheshmi broke the trend on Friday with a rasping strike against Wales, while later in the day, the Netherlands forward Cody Gakpo scored in a 1-1 draw with Ecuador.
-
-The 'Al Rihla' match ball developed for the World Cup is described by Fifa as "travelling faster than any ball" in the tournament's history.
-
-Global football's governing also said the ball "provides the highest levels of accuracy and reliability on the field of play".
-
-TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cup, told BBC Sport: "Technology has improved the game, it is helping the ball, boots, gloves, data. Everything is for the improvement of the game.
-
-"When you have good shooters, any kind of ball will be fast and dangerous. I have spoken with friends from all over the world, this is a ball they are all feeling comfortable with.
-
-"Us goalkeepers are always talking about the fast moving ball but everything is for the good of the game."
                                 </p>
                             </div>
                         </div>
@@ -180,7 +141,15 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/tunsia.webp" />
+                                        <img src="img/ronaldo world cup.jpg" />
+                                        <div class="sn-title">
+                                            <a href="sport.php">World Cup 2022: Cristiano Ronaldo a 'total genius' for winning Portugal penalty - Fifa</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-md-4">
+                                    <div class="sn-img">
+                                        <img src="img/tunisia.webp" />
                                         <div class="sn-title">
                                             <a href="tunisia.php">Australia boost qualification chances with 1-0 win over Tunisia</a>
                                         </div>
@@ -199,14 +168,6 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                         <img src="img/WCGROUP.webp" />
                                         <div class="sn-title">
                                             <a href="worldgroup.php">What are the World Cup 2022 groups?</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="sn-img">
-                                        <img src="img/ISITFOTVALL.webp" />
-                                        <div class="sn-title">
-                                            <a href="soccer.php">World Cup 2022: Why Americans call it soccer</a>
                                         </div>
                                     </div>
                                 </div>
