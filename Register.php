@@ -133,8 +133,6 @@
               <input type="password" placeholder="Repeat Password" name="pwdrepeat">
               <hr>
               <button type="submit" name= "submit">Register</button>
-            </div>
-          
             <div class="container signin">
               <p>Already have an account? <a href="#">Sign in</a>.</p>
             </div>
@@ -172,7 +170,6 @@
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed porta dui. Class aptent taciti sociosqu
                                 </p>
-                                </form>
                             </div>
                         </div>
                     </div>
@@ -226,5 +223,6 @@
         <script src="js/main.js"></script>
 
     </body>
+    
 
 </html>
