@@ -111,27 +111,24 @@
         <!-- Breadcrumb End -->
         
         <!-- Single News Start-->
-        <form action="action_page.php" method="post">
-            </div>
-          
-            <div class="container">
-              <label for="uname"><b>Username</b></label>
-              <input type="text" placeholder="Enter Username" name="uname" required>
-          
-              <label for="psw"><b>Password</b></label>
-              <input type="password" placeholder="Enter Password" name="psw" required>
-          
-              <button type="submit">Login</button>
-              <label>
-                <input type="checkbox" checked="checked" name="remember"> Remember me
-              </label>
-            </div>
-          
-            <div class="container" style="background-color:#f1f1f1">
-              <button type="button" class="cancelbtn">Cancel</button>
-              <span class="psw"><a href="#">Forgot password?</a></span>
-            </div>
-          </form>
+        </div>
+              <form class="login-form" id="LoginForm" method="post" accept-charset="utf-8">
+                <h2 id="username"> Username </h2>
+                <div class="control-group mb-4">
+                  <div class="input-prepend">
+                    <span class="add-on"><i class="icon-user"></i></span>
+                    <input type="username" placeholder="Enter username" name="username" id="username" required> 
+                  </div>
+                </div>
+                <h2 id="password"> Password </h2>
+                <div class="control-group mb-4">
+                  <div class="input-prepend">
+                    <span class="add-on"><i class="icon-lock"></i></span>
+                    <input name="psw" required="required" placeholder=" " type="password" id="psw"> 
+
+                    <input class="btn btn-custom text-black fw-bolder py-2" type="submit"  value="Login"> 
+</form>
+
         <!-- Single News End-->        
         
         <!-- Footer Start -->
@@ -165,9 +162,6 @@
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed porta dui. Class aptent taciti sociosqu
                                 </p>
-                                <form>
-                                    <input class="form-control" type="email" placeholder="Your email here">
-                                    <button class="btn">Submit</button>
                                 </form>
                             </div>
                         </div>
@@ -197,7 +191,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-6 copyright">
-                        <p>Copyright &copy; <a href="">Your Site Name</a>. All Rights Reserved</p>
+                        <p>Copyright &copy; <a href="">ITSNEWS</a>. All Rights Reserved</p>
                     </div>
 
                     <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
