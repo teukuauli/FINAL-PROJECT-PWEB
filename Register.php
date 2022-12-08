@@ -134,13 +134,6 @@
               <hr>
               <button type="submit" name= "submit">Register</button>
             </div>
-
-            <?php
-            if (isser($_GET["error"])) { 
-                if ($_GET["error"] ==  ) {
-                    # code...
-                }
-            }
           
             <div class="container signin">
               <p>Already have an account? <a href="#">Sign in</a>.</p>
@@ -179,9 +172,6 @@
                                 <p>
                                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed porta dui. Class aptent taciti sociosqu
                                 </p>
-                                <form>
-                                    <input class="form-control" type="email" placeholder="Your email here">
-                                    <button class="btn">Submit</button>
                                 </form>
                             </div>
                         </div>
