@@ -102,9 +102,6 @@
         <div class="breadcrumb-wrap">
             <div class="container">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">News</a></li>
-                    <li class="breadcrumb-item active">News details</li>
                 </ul>
             </div>
         </div>
@@ -117,72 +114,20 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/ronaldo world cup.jpg" />
+                                <img src="img/apple.jpeg" />
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">World Cup 2022: Cristiano Ronaldo a 'total genius' for winning Portugal penalty - Fifa</h1>
+                                <h1 class="sn-title">Apple Pelanggan Terbesar Chip 'Made in America', iPhone Lebih Canggih?</h1>
                                 <p>
-                                    Cristiano Ronaldo has been called a "total genius" by Fifa for the way in which he won a penalty for Portugal in their World Cup victory over Ghana.
-
-                                    The 37-year-old converted from the spot to become the first man to score at five different Fifa World Cups.
-
-                                    Portugal won 3-2, but the awarding of the spot-kick outraged Ghana boss Otto Addo, who said it was "not a penalty".
-
-                                    At a briefing in Doha, Fifa technical study group (TSG) member Sunday Oliseh said strikers are "getting smarter".
-
-                                    The TSG, which is led by former Arsenal manager Arsene Wenger, looks at each match and provides analysis including performance data and trends.
-                                </p>
+                                TSMC adalah perusahaan khusus yang membuat dan merancang chip untuk perusahaan lain. Perusahaan seperti Apple, AMD, dan NVIDIA adalah beberapa pelanggan terbesarnya, bahkan Intel mengandalkan TSMC untuk membuat prosesor tercanggih.
                                 <p>
-                                    After 20 games in this tournament, nine penalties have been awarded, which is on track to reach the previous record of 24 that were given in the group stages in Russia four years ago.
-
-Poland's Robert Lewandowski and Canada's Alphonso Davies have seen their efforts saved, while the remaining seven have been scored.
-
-This includes Ronaldo, who went down under a challenge from Southampton defender Mohammed Salisu. Former England defender Matt Upson, speaking on BBC Radio 5 Live, called it a "dive".
-
-Ghana boss Addo was left fuming after the defeat and told BeIN Sports: "The referee gave a penalty which was not a penalty - everyone saw that. Why? Because it's Ronaldo or something?
-
-"The referee was not in our favour."
-
-But former Nigeria international Oliseh, who played at the 1998 World Cup, feels Ronaldo was clever in his movement to win the penalty that allowed him to score his 118th international goal.
-
-"Maybe the strikers are getting smarter?" said Oliseh.
-
-"The Ronaldo penalty, people can say what they want about him, but the smartness to wait for that second, to touch the ball, continue his leg and then get the contact. That is total genius.
-
-"Let's give strikers the compliment for getting smarter. VAR is also a major reason why this (more penalties being awarded) is happening. Referees can look at it three or four times."
-
-'Teams will become braver'
-There were four goalless games in the opening 16 matches, which set a new record of 25% in the first round of group games.
-
-A fifth followed on Friday as England and the United States played out a stalemate in their second game of the tournament in Qatar.
-
-The record number of 0-0 draws at the World Cup stands at seven, which happened at four different editions of the tournament, but Qatar 2022 is already close to that tally with only 20 of the 64 scheduled games completed before Saturday's matches.
-
-At the last World Cup in Russia, there was one goalless draw, between Denmark and France in a group game.
-
-"Teams have not wanted to take too much of a risk," said Oliseh.
-
-"Clearly many teams are relying on a cautious approach," added colleague Alberto Zaccheroni, who won Serie A with AC Milan and the Asian Cup when he was coach of Japan.
-
-"But as the tournament progresses we will see teams become a bit braver."
-
-Players 'feeling comfortable' with matchball
-A total of 49 goals have been scored in the 20 matches played by the end of Friday, 25 November.
-
-The first round of 16 games did not see a single goal scored from outside the box. Two have been scored from distance in the four games so far played in the second round of matches, which is significantly fewer than at this stage in the past two tournaments.
-
-Iran's Roozbeh Cheshmi broke the trend on Friday with a rasping strike against Wales, while later in the day, the Netherlands forward Cody Gakpo scored in a 1-1 draw with Ecuador.
-
-The 'Al Rihla' match ball developed for the World Cup is described by Fifa as "travelling faster than any ball" in the tournament's history.
-
-Global football's governing also said the ball "provides the highest levels of accuracy and reliability on the field of play".
-
-TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cup, told BBC Sport: "Technology has improved the game, it is helping the ball, boots, gloves, data. Everything is for the improvement of the game.
-
-"When you have good shooters, any kind of ball will be fast and dangerous. I have spoken with friends from all over the world, this is a ball they are all feeling comfortable with.
-
-"Us goalkeepers are always talking about the fast moving ball but everything is for the good of the game."
+                                Apple berencana untuk mulai menggunakan prosesor buatan Amerika Serikat setelah pembukaan pabrik chip baru di Phoenix, Arizona, AS. Dengan fasilitas baru hasil kerja sama dengan pabrikan semikonduktor Taiwan, TSMC, ini, pasokan chip untuk perusahaan teknologi asal AS itu dianggap lebih aman, dengan waktu produksi yang lebih cepat.
+                                <p>
+                                Pimpinan perusahaan Apple, AMD, dan NVIDIA mengonfirmasi mereka akan menjadi pelanggan pertama yang membeli chip dari pabrik di Arizona. "TSMC telah menjadi platform global tempat industri teknologi dunia dibangun. Membawa investasi TSMC ke Amerika Serikat adalah pukulan telak dan pengembangan yang mengubah permainan untuk industri ini," kata CEO NVIDIA Jensen Huang. Pelanggan TSMC tidak mengungkapkan berapa banyak chip yang mereka rencanakan untuk dibeli. Namun, chip 3 nm dan 4 nm buatan pabrik Arizona diklaim akan lebih canggih daripada yang mereka gunakan saat ini.
+                                <p>
+                                Pada saat pabrikan Arizona ini beroperasi, TSMC segera memproduksi chip yang lebih canggih di fasilitas luar negeri. Perusahaan berencana untuk memproduksi chip 2 nm pada 2025, menurut Nikkei Asia.
                                 </p>
+
                             </div>
                         </div>
                         <div class="sn-related">
@@ -190,33 +135,34 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/tunsia.webp" />
+                                        <img src="img/airpods.jpeg" />
                                         <div class="sn-title">
-                                            <a href="">Australia boost qualification chances with 1-0 win over Tunisia</a>
+                                            <a href="">Spek tersembunyi airpods apple</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/arab team news.webp" />
+                                        <img src="img/iphone.jpeg" />
                                         <div class="sn-title">
-                                            <a href="">Arab teams turn Qatar World Cup into a ‘home’ tournament</a>
+                                            <a href="">Suplai iphone 14 tersendat jelang natal</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/WCGROUP.webp" />
+                                        <img src="img/logo apple.jpg" />
                                         <div class="sn-title">
-                                            <a href="">What are the World Cup 2022 groups?</a>
+                                            <a href="">Apple bisa lacak pengguna meski pengaturan lokasi mati</a>
                                         </div>
                                     </div>
                                 </div>
+
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/ISITFOTVALL.webp" />
+                                        <img src="img/iphone kabel c.jpeg" />
                                         <div class="sn-title">
-                                            <a href="">World Cup 2022: Why Americans call it soccer</a>
+                                            <a href="">Iphone akan pake kabel type c</a>
                                         </div>
                                     </div>
                                 </div>
@@ -379,13 +325,10 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-                                        <li><a href="">National</a><span>(98)</span></li>
-                                        <li><a href="">International</a><span>(87)</span></li>
-                                        <li><a href="">Economics</a><span>(76)</span></li>
+                                        <li><a href="">Sports</a><span>(98)</span></li>
+                                        <li><a href="">Entertainment</a><span>(87)</span></li>
+                                        <li><a href="">Technology</a><span>(76)</span></li>
                                         <li><a href="">Politics</a><span>(65)</span></li>
-                                        <li><a href="">Lifestyle</a><span>(54)</span></li>
-                                        <li><a href="">Technology</a><span>(43)</span></li>
-                                        <li><a href="">Trades</a><span>(32)</span></li>
                                     </ul>
                                 </div>
                             </div>

@@ -102,9 +102,6 @@
         <div class="breadcrumb-wrap">
             <div class="container">
                 <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">News</a></li>
-                    <li class="breadcrumb-item active">News details</li>
                 </ul>
             </div>
         </div>
@@ -379,13 +376,10 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-                                        <li><a href="">National</a><span>(98)</span></li>
-                                        <li><a href="">International</a><span>(87)</span></li>
-                                        <li><a href="">Economics</a><span>(76)</span></li>
+                                        <li><a href="">Sports</a><span>(98)</span></li>
+                                        <li><a href="">Entertainment</a><span>(87)</span></li>
+                                        <li><a href="">Technology</a><span>(76)</span></li>
                                         <li><a href="">Politics</a><span>(65)</span></li>
-                                        <li><a href="">Lifestyle</a><span>(54)</span></li>
-                                        <li><a href="">Technology</a><span>(43)</span></li>
-                                        <li><a href="">Trades</a><span>(32)</span></li>
                                     </ul>
                                 </div>
                             </div>
