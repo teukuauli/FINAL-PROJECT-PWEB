@@ -1,3 +1,9 @@
+
+<?php
+require 'actionpage\connection.php';
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -111,23 +117,20 @@
         <!-- Breadcrumb End -->
         
         <!-- Single News Start-->
-        </div>
-              <form class="login-form" id="LoginForm" method="post" accept-charset="utf-8">
-                <h2 id="username"> Username </h2>
-                <div class="control-group mb-4">
-                  <div class="input-prepend">
-                    <span class="add-on"><i class="icon-user"></i></span>
-                    <input type="username" placeholder="Enter username" name="username" id="username" required> 
-                  </div>
-                </div>
-                <h2 id="password"> Password </h2>
-                <div class="control-group mb-4">
-                  <div class="input-prepend">
-                    <span class="add-on"><i class="icon-lock"></i></span>
-                    <input name="psw" required="required" placeholder=" " type="password" id="psw"> 
+        <form action="includes/login.inc.php"method="post">
+            <div class="container">
+              <h1>Login</h1>
+              <p>Please fill in this form to create an account.</p>
+              <hr>
+              <label for="username"><b>Username</b></label>
+              <input type="username" placeholder="Enter username" name="username" id="username" required>
+          
+              <label for="pwd"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="pwd" id="pwd" required>
 
-                    <input class="btn btn-custom text-black fw-bolder py-2" type="submit"  value="Login"> 
-</form>
+              <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
+              <button type="submit" name= "login">Register</button>
+            </div>
 
         <!-- Single News End-->        
         

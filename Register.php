@@ -1,9 +1,3 @@
-<?php
-require 'actionpage\connection.php';
-
-?>
-
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -118,27 +112,27 @@ require 'actionpage\connection.php';
         <!-- Breadcrumb End -->
         
         <!-- Single News Start-->
-        <form action="Register.php"method="post">
-            <div class="container">
+        <form action="includes/Register.inc.php"method="post">
+            <section class="register-form">
               <h1>Register</h1>
               <p>Please fill in this form to create an account.</p>
               <hr>
-            </div>
+              <label for="Name"><b>Name</b></label>
+              <input type="text" placeholder="Enter name" name="name">
+            
               <label for="email"><b>Email</b></label>
-              <input type="text" placeholder="Enter Email" name="email" id="email" required>
-            </div>
+              <input type="text" placeholder="Enter Email" name="email" >
+
               <label for="username"><b>Username</b></label>
-              <input type="username" placeholder="Enter username" name="username" id="username" required>
+              <input type="text" placeholder="Enter username" name="uid">
           
-              <label for="psw"><b>Password</b></label>
-              <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
+              <label for="pwd"><b>Password</b></label>
+              <input type="password" placeholder="Enter Password" name="pwd">
           
-              <label for="psw-repeat"><b>Repeat Password</b></label>
-              <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
+              <label for="pwdrepeat"><b>Repeat Password</b></label>
+              <input type="password" placeholder="Repeat Password" name="pwdrepeat">
               <hr>
-          
-              <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
-              <button type="submit" name="save" class="registerbtn">Register</button>
+              <button type="submit" name= "submit">Register</button>
             </div>
           
             <div class="container signin">
@@ -235,29 +229,5 @@ require 'actionpage\connection.php';
         <script src="js/main.js"></script>
 
     </body>
-    <?php
-    if(isset($_POST['save']))
-    {	
-         $username = $_POST['username'];
-         $email = $_POST['email'];
-         $password = $_POST['psw'];
 
-         if ($_POST["psw"] === $_POST["psw-repeat"]) {
-            // success!
-         $sql_query="insert into register (username,email,password) values ('$username','$email','$password')";
-    
-         if (mysqli_query($conn, $sql_query)) 
-         {
-            echo "New Details Entry inserted successfully !";
-         } 
-         else
-         {
-            echo "Error: " . $sql . "" . mysqli_error($conn);
-         }
-         mysqli_close($conn);
-
-        }
-
-    }
-    ?>
 </html>
