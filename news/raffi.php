@@ -36,8 +36,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="tb-menu">
-                            <a href="Register.php" class="nav-item nav-link">Register</a>
-                            <a href="Login.php" class="nav-item nav-link">Login</a>
+                            <a href="Register.html" class="nav-item nav-link">Register</a>
+                            <a href="Login.html" class="nav-item nav-link">Login</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="b-logo">
-                            <a href="index.php">
+                            <a href="index.html">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                                 
@@ -80,11 +80,11 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.php" class="nav-item nav-link">Home</a>
-                            <a href="sport.php" class="nav-item nav-link">Sports</a>
-                            <a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a>
-                            <a href="Politics.php" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.php" class="nav-item nav-link">Technology</a> 
+                            <a href="index.html" class="nav-item nav-link">Home</a>
+                            <a href="sport.html" class="nav-item nav-link">Sports</a>
+                            <a href="Entartaiment.html" class="nav-item nav-link">Entartaiment</a>
+                            <a href="Politics.html" class="nav-item nav-link">Politics</a>
+                            <a href="Technology.html" class="nav-item nav-link">Technology</a> 
                         </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
@@ -117,18 +117,18 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/news-825x825.jpg"/>
+                                <img src="img/raffi ahmad.webp"/>
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</h1>
+                                <h1 class="sn-title">Raffi Ahmad sekeluarga nonton piala dunia di Qatar</h1>
                                 <p>
-                                    Ternyata, Kaesang menanggapi undangan pernikahannya yang ternyata palsu. Seperti yang tertera dalam undangan palsu yang tersebar, pasangan itu akan menikah pada 11 Desember 2022. Diselenggarakan di Pura Mangkunegaran pada pukul 09.30 WIB hingga 13.00 WIB.
+                                    Meninggalkan sejenak kegiatannya di Tanah Air, Raffi Ahmad dan keluarga terbang ke Qatar untuk menyaksikan secara langsung Piala Dunia 2022 yang dihelat di Stadion Al Bayt, Al Khor. Menurutnya, Qatar dan Indonesia memiliki kesamaan dari segi cuaca yang panas. Kendati begitu, Raffi Ahmad merasa jika para penonton Piala Dunia 2022 lebih teratur.
                                 </p>
                                 <p>
-                                    Tertera pula dalam undangan palsu itu identitas kedua mempelai, yakni Kaesang Pangarep dan Erina Sofia Gudono. Di bagian bawah nama mempelai terdapat nama orang tua dari pihak laki-laki, yakni putra dari keluarga Joko Widodo dan Iriana. Sedangkan dari pihak perempuan, putri dari keluarga Prof. Dr. Muhammad Gudono, MBA, PhD dan Dra. Sofiatun Gudono M.Si.
+                                    Bersama putra sulungnya Rafathar, Raffi Ahmad menyaksikan deretan pertandingan di Piala Dunia 2022, diantaranya Inggris versus Iran, Argentina versus Arab Saudi, hingga Jerman versus Jepang.
                                 </p>
                                 <p>
-                                    Kaesang Pangerep dalam cuitannya pada 26 November 2022, mengatakan undangan yang tersebar merupakan undangan palsu. Bahkan, undangan pernikahan mereka sampai saat ini belum dicetak. Jadi, sudah dipastikan undangan yang viral itu palsu.
+                                    Mengetahui Rafathar sangat mengidolakan sosok Lionel Messi, Raffi Ahmad juga sempat berencana untuk mendatangi hotel tempat sang legenda sepak bola menginap untuk berfoto bersama.
                                 </p>
                             </div>
                         </div>
@@ -137,9 +137,9 @@
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/raffi ahmad.webp" />
+                                        <img src="img/news-825x825.jpg" />
                                         <div class="sn-title">
-                                            <a href="raffi.php">Raffi Ahmad Sekeluarga Nonton di Qatar</a>
+                                            <a href="Entertaiment.php">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</a>
                                         </div>
                                     </div>
                                 </div>
@@ -177,9 +177,6 @@
                             <div class="sidebar-widget">
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
-                                        <li class="nav-item">
-                                            <a class="nav-link active" data-toggle="pill" href="#featured">Featured</a>
-                                        </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
                                         </li>

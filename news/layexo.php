@@ -36,8 +36,8 @@
                     </div>
                     <div class="col-md-6">
                         <div class="tb-menu">
-                            <a href="Register.php" class="nav-item nav-link">Register</a>
-                            <a href="Login.php" class="nav-item nav-link">Login</a>
+                            <a href="Register.html" class="nav-item nav-link">Register</a>
+                            <a href="Login.html" class="nav-item nav-link">Login</a>
                         </div>
                     </div>
                 </div>
@@ -51,7 +51,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-3 col-md-4">
                         <div class="b-logo">
-                            <a href="index.php">
+                            <a href="index.html">
                                 <img src="img/logo.png" alt="Logo">
                             </a>
                                 
@@ -80,11 +80,11 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.php" class="nav-item nav-link">Home</a>
-                            <a href="sport.php" class="nav-item nav-link">Sports</a>
-                            <a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a>
-                            <a href="Politics.php" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.php" class="nav-item nav-link">Technology</a> 
+                            <a href="index.html" class="nav-item nav-link">Home</a>
+                            <a href="sport.html" class="nav-item nav-link">Sports</a>
+                            <a href="Entartaiment.html" class="nav-item nav-link">Entartaiment</a>
+                            <a href="Politics.html" class="nav-item nav-link">Politics</a>
+                            <a href="Technology.html" class="nav-item nav-link">Technology</a> 
                         </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
@@ -117,24 +117,32 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/news-825x825.jpg"/>
+                                <img src="img/lary exo.jpeg"/>
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</h1>
+                                <h1 class="sn-title">Lay exo terbang ke korea Exo bakal comeback full team?</h1>
                                 <p>
-                                    Ternyata, Kaesang menanggapi undangan pernikahannya yang ternyata palsu. Seperti yang tertera dalam undangan palsu yang tersebar, pasangan itu akan menikah pada 11 Desember 2022. Diselenggarakan di Pura Mangkunegaran pada pukul 09.30 WIB hingga 13.00 WIB.
+                                    Lay Zhang yang dikenal salah satu anggota EXO ini dikabarkan terbang ke Korea. Hal ini, diketahui dari salah satu akun fanpage EXO yang menangkap foto-foto Lay EXO saat berada di bandara New York menuju ke Korea.
                                 </p>
                                 <p>
-                                    Tertera pula dalam undangan palsu itu identitas kedua mempelai, yakni Kaesang Pangarep dan Erina Sofia Gudono. Di bagian bawah nama mempelai terdapat nama orang tua dari pihak laki-laki, yakni putra dari keluarga Joko Widodo dan Iriana. Sedangkan dari pihak perempuan, putri dari keluarga Prof. Dr. Muhammad Gudono, MBA, PhD dan Dra. Sofiatun Gudono M.Si.
+                                    ini tak lagi aktif untuk mengikuti kegiatan bersama dengan kedelapan member lainnya di Korea Selatan, namun kehadirannya bersama anggota lain sangat ditunggu penggemar. Walaupun Lay memilih hengkang dari agensi itu, ia pun berjanji bahwa akan selalu menjadi bagian dari grup EXO. Sehingga kehadiran Lay di bandara disinyalir menuju ke Korea itu sangat ditunggu-tunggu para penggemar
                                 </p>
                                 <p>
-                                    Kaesang Pangerep dalam cuitannya pada 26 November 2022, mengatakan undangan yang tersebar merupakan undangan palsu. Bahkan, undangan pernikahan mereka sampai saat ini belum dicetak. Jadi, sudah dipastikan undangan yang viral itu palsu.
+                                    Kehadiran Lay EXO di Korea pra penggemar menduga bahwa akan ada aktivitas para anggota dengan full team. Apalagi desas-desus dari spoiler wawancara Chen EXO dalam beberapa kesempatan memberikan sinyal bahwa grup EXO akan kembali menyapa penggemar bersama dengan semua anggota.
                                 </p>
                             </div>
                         </div>
                         <div class="sn-related">
                             <h2>Related News</h2>
                             <div class="row sn-slider">
+                                <div class="col-md-4">
+                                    <div class="sn-img">
+                                        <img src="img/news-825x825.jpg" />
+                                        <div class="sn-title">
+                                            <a href="Entertaiment.php">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</a>
+                                        </div>
+                                    </div>
+                                </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
                                         <img src="img/raffi ahmad.webp" />
@@ -147,15 +155,7 @@
                                     <div class="sn-img">
                                         <img src="img/film wondering.jpg" />
                                         <div class="sn-title">
-                                            <a href="filmmoon.php">Film The Wondering Moon</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-md-4">
-                                    <div class="sn-img">
-                                        <img src="img/lary exo.jpeg" />
-                                        <div class="sn-title">
-                                            <a href="layexo.php">Lay exo balik ke Korea. Exo Bakal comeback</a>
+                                            <a href="filmmoon.php">Film the wondering moon</a>
                                         </div>
                                     </div>
                                 </div>
@@ -177,9 +177,6 @@
                             <div class="sidebar-widget">
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
-                                        <li class="nav-item">
-                                            <a class="nav-link active" data-toggle="pill" href="#featured">Featured</a>
-                                        </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
