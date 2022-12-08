@@ -1,3 +1,10 @@
+<?php
+session_start();
+?>
+
+
+
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -38,6 +45,7 @@
                         <div class="tb-menu">
                             <a href="Register.php" class="nav-item nav-link">Register</a>
                             <a href="Login.php" class="nav-item nav-link">Login</a>
+                            <a href="Logout.php" class="nav-item nav-link">Logout</a>
                         </div>
                     </div>
                 </div>
@@ -113,7 +121,7 @@
                                 <div class="tn-img">
                                     <img src="img/rkuhp.jpeg" />
                                     <div class="tn-title">
-                                        <a href="rkuhp.php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
+                                        <a href=".php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
                                     </div>
                                 </div>
                             </div>
@@ -121,7 +129,7 @@
                                 <div class="tn-img">
                                     <img src="img/australia alert ri.jpeg" />
                                     <div class="tn-title">
-                                        <a  href="">Alert! Australia Resmi Keluarkan 'Travel Warning' untuk RI</a>
+                                        <a  href="australia.php">Alert! Australia Resmi Keluarkan 'Travel Warning' untuk RI</a>
                                     </div>
                                 </div>
                             </div>
@@ -133,15 +141,15 @@
                                 <div class="tn-img">
                                     <img src="img/outside sex.webp" />
                                     <div class="tn-title">
-                                        <a href="">Indonesia passes criminal code banning sex outside marriage</a>
+                                        <a href="outside sex.php">Indonesia passes criminal code banning sex outside marriage</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="tn-img">
-                                    <img src="img/bali bomber.webp" />
+                                    <img src="img/avert arail.webp" />
                                     <div class="tn-title">
-                                        <a href="">Umar Patek: Anger and fear in Australia as Bali bomber freed</a>
+                                        <a href="avertrail.php">Congress Moved to Avert a Rail Strike. Here’s How and Why</a>
                                     </div>
                                 </div>
                             </div>
@@ -275,23 +283,23 @@
                                 <div class="cn-img">
                                     <img src="img/razman.webp" />
                                     <div class="cn-title">
-                                        <a href="">Sidang Razman Arif Nasution Vs Richard Lee Berlangsung Ricuh</a>
+                                        <a href="Politics.php">Sidang Razman Arif Nasution Vs Richard Lee Berlangsung Ricuh</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-1.jpg" />
+                                    <img src="img/senate.jpg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="senate.php">Schumer: Senate will not leave without a freight rail agreement</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-3.jpg" />
+                                    <img src="img/cool trump.jpg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="trumpdefeat.php">Trump’s rough day in court ends with a double defeat</a>
                                     </div>
                                 </div>
                             </div>

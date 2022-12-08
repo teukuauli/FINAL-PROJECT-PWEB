@@ -98,14 +98,6 @@
         </div>
         <!-- Nav Bar End -->
         
-        <!-- Breadcrumb Start -->
-        <div class="breadcrumb-wrap">
-            <div class="container">
-                <ul class="breadcrumb">
-                </ul>
-            </div>
-        </div>
-        <!-- Breadcrumb End -->
         
         
         <!-- Single News Start-->
@@ -115,20 +107,22 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/apple.jpeg" />
+                                <img src="img/tunisia.webp" />
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Apple's Biggest Customer of 'Made in America' Chip, More Sophisticated iPhone?</h1>
+                                <h1 class="sn-title">Australia boost qualification chances with 1-0 win over Tunisia</h1>
                                 <p>
-                                TSMC is a specialty company that manufactures and designs chips for other companies. Companies like Apple, AMD, and NVIDIA are some of its biggest customers, and even Intel relies on TSMC to make the most advanced processors.
-                                <p>
-                                Apple plans to start using processors made in the United States following the opening of a new chip factory in Phoenix, Arizona, USA. With this new facility in collaboration with a Taiwanese semiconductor manufacturer, TSMC, chip supply for the technology company from the US is considered safer, with faster production times.
-                                <p>
-                                Chief executives of Apple, AMD and NVIDIA confirmed they will be the first customers to buy chips from the Arizona plant. "TSMC has become the global platform on which the world's technology industry is built. Bringing TSMC's investment to the United States is a crushing blow and a game-changing development for the industry," said NVIDIA CEO Jensen Huang. TSMC's customers did not disclose how many chips they plan to buy. However, the 3nm and 4nm chips made by the Arizona factory are claimed to be more sophisticated than what they are currently using.
-                                <p>
-                                By the time the Arizona manufacturer was operational, TSMC was soon producing more advanced chips at an overseas facility. The company plans to produce 2nm chips by 2025, according to Nikkei Asia.
-                                </p>
+                                A spirited Australian side has defeated Tunisia 1-0 in their second Qatar World Cup match, with Mitchell Duke’s smart finish in the first half being the decisive factor in the highly competitive clash.
 
+                                The result at Al Janoub Stadium on Saturday keeps Australia’s hopes of qualification alive and sees them climb into second place in Group D behind France.
+
+                                </p>
+                                <p>
+                                   
+                                There are no such superstars in the team this time as Graham Arnold’s Australia produced an exceptional performance at the 42,000-capacity Al Janoub Stadium to win their first World Cup game since 2010.
+
+
+                                </p>
                             </div>
                         </div>
                         <div class="sn-related">
@@ -136,34 +130,33 @@
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/airpods.jpeg" />
+                                        <img src="img/ronaldo world cup.jpg" />
                                         <div class="sn-title">
-                                            <a href="airpods.php">Hidden specs in apple airpods</a>
+                                            <a href="sport.php">World Cup 2022: Cristiano Ronaldo a 'total genius' for winning Portugal penalty - Fifa</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/iphone.jpeg" />
+                                        <img src="img/arab team news.webp" />
                                         <div class="sn-title">
-                                            <a href="iphonesupp.php">iPhone 14 supplies faltered ahead of Christmas celebrations</a>
+                                            <a href="arabteam.php">Arab teams turn Qatar World Cup into a ‘home’ tournament</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/logo apple.jpg" />
+                                        <img src="img/WCGROUP.webp" />
                                         <div class="sn-title">
-                                            <a href="appletrack.php">Apple can track users even if the location setting is off</a>
+                                            <a href="worldgroup.php">What are the World Cup 2022 groups?</a>
                                         </div>
                                     </div>
                                 </div>
-
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/iphone kabel c.jpeg" />
+                                        <img src="img/ISITFOTVALL.webp" />
                                         <div class="sn-title">
-                                            <a href="iptypeC.php">Iphone will use type c cable</a>
+                                            <a href="soccer.php">World Cup 2022: Why Americans call it soccer</a>
                                         </div>
                                     </div>
                                 </div>
@@ -174,18 +167,13 @@
                     <div class="col-lg-4">
                         <div class="sidebar">
                             <div class="sidebar-widget">
-     
+                            </div>
                             
                             <div class="sidebar-widget">
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
-                                        
                                         <li class="nav-item">
-<<<<<<< HEAD
-                                            <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
-=======
                                             <a class="nav-link active" data-toggle="pill" href="#popular">Popular</a>
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
@@ -193,94 +181,45 @@
                                     </ul>
 
                                     <div class="tab-content">
-<<<<<<< HEAD
-                                        <div id="featured" class="container tab-pane active">
+                                    <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/ponselthnair.jpeg" />
+                                                    <img src="img/news-350x223-4.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">some waterproof cellphones ready to be taken out in the rain</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/ios16.png" />
+                                                    <img src="img/news-350x223-3.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/baterai.jpeg" />
+                                                    <img src="img/news-350x223-2.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">The World's Electric Vehicles Depend on Indonesian Batteries</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/tvanalog.jpeg" />
+                                                    <img src="img/news-350x223-1.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">analog tv will stop operating on december 20th</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/speedtest.jpg
-                                                    " />
+                                                    <img src="img/news-350x223-2.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">comparison of internet speed in RI and Singapore</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div id="popular" class="container tab-pane fade">
-=======
-                                        
-                                        <div id="popular" class="container tab-pane active">
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/ponselthnair.jpeg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">some waterproof cellphones ready to be taken out in the rain</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/ios16.png" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/baterai.jpeg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">The World's Electric Vehicles Depend on Indonesian Batteries</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/tvanalog.jpeg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">analog tv will stop operating on december 20th</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/speedtest.jpg
-                                                    " />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">comparison of internet speed in RI and Singapore</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                         </div>
@@ -335,17 +274,11 @@
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-<<<<<<< HEAD
-                                        <li><a href="">Sports</a><span>(98)</span></li>
-                                        <li><a href="">Entertainment</a><span>(87)</span></li>
-                                        <li><a href="">Technology</a><span>(76)</span></li>
-                                        <li><a href="">Politics</a><span>(65)</span></li>
-=======
-                                    <li><a href="Politics.php">Politics</a><span>(65)</span></li>
+                                        
+                                        <li><a href="Politics.php">Politics</a><span>(65)</span></li>
                                         <li><a href="Entertaiment.php">Entertaiment</a><span>(54)</span></li>
                                         <li><a href="sport.php">sport</a><span>(43)</span></li>
                                         <li><a href="Technology.php">Tech</a><span>(32)</span></li>
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
                                     </ul>
                                 </div>
                             </div>
@@ -370,7 +303,6 @@
             </div>
         </div>
         <!-- Single News End-->        
-        
         <div id="disqus_thread"></div>
 <script>
     /**
@@ -390,7 +322,6 @@
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
         <!-- Footer Start -->
         <div class="footer">
             <div class="container">

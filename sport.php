@@ -189,7 +189,7 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                     <div class="sn-img">
                                         <img src="img/tunsia.webp" />
                                         <div class="sn-title">
-                                            <a href="">Australia boost qualification chances with 1-0 win over Tunisia</a>
+                                            <a href="tunisia.php">Australia boost qualification chances with 1-0 win over Tunisia</a>
                                         </div>
                                     </div>
                                 </div>
@@ -197,7 +197,7 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                     <div class="sn-img">
                                         <img src="img/arab team news.webp" />
                                         <div class="sn-title">
-                                            <a href="">Arab teams turn Qatar World Cup into a ‘home’ tournament</a>
+                                            <a href="arabteam.php">Arab teams turn Qatar World Cup into a ‘home’ tournament</a>
                                         </div>
                                     </div>
                                 </div>
@@ -205,7 +205,7 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                     <div class="sn-img">
                                         <img src="img/WCGROUP.webp" />
                                         <div class="sn-title">
-                                            <a href="">What are the World Cup 2022 groups?</a>
+                                            <a href="worldgroup.php">What are the World Cup 2022 groups?</a>
                                         </div>
                                     </div>
                                 </div>
@@ -213,7 +213,7 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                     <div class="sn-img">
                                         <img src="img/ISITFOTVALL.webp" />
                                         <div class="sn-title">
-                                            <a href="">World Cup 2022: Why Americans call it soccer</a>
+                                            <a href="soccer.php">World Cup 2022: Why Americans call it soccer</a>
                                         </div>
                                     </div>
                                 </div>
@@ -224,16 +224,13 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                     <div class="col-lg-4">
                         <div class="sidebar">
                             <div class="sidebar-widget">
-     
+                            </div>
                             
                             <div class="sidebar-widget">
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
                                         <li class="nav-item">
-                                            <a class="nav-link active" data-toggle="pill" href="#featured">Featured</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
+                                            <a class="nav-link active" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
@@ -241,49 +238,7 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                     </ul>
 
                                     <div class="tab-content">
-                                        <div id="featured" class="container tab-pane active">
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/11.16.22_Messi-and-Ronaldos-Last-Dance_16x9.webp" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">Messi and Ronaldo’s last dance</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/221117105439-lauren-ridloff.jpg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">‘I run to find peace,’ says Marvel actress Lauren Ridloff after finishing her first marathon</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/news-350x223-5.jpg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div id="popular" class="container tab-pane fade">
+                                    <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
                                                     <img src="img/news-350x223-4.jpg" />
@@ -376,10 +331,18 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
+<<<<<<< HEAD
                                         <li><a href="">Sports</a><span>(98)</span></li>
                                         <li><a href="">Entertainment</a><span>(87)</span></li>
                                         <li><a href="">Technology</a><span>(76)</span></li>
                                         <li><a href="">Politics</a><span>(65)</span></li>
+=======
+                                        
+                                        <li><a href="Politics.php">Politics</a><span>(65)</span></li>
+                                        <li><a href="Entertaiment.php">Entertaiment</a><span>(54)</span></li>
+                                        <li><a href="sport.php">sport</a><span>(43)</span></li>
+                                        <li><a href="Technology.php">Tech</a><span>(32)</span></li>
+>>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
                                     </ul>
                                 </div>
                             </div>

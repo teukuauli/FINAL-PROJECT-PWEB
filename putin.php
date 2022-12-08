@@ -84,7 +84,7 @@
                             <a href="sport.php" class="nav-item nav-link">Sports</a>
                             <a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a>
                             <a href="Politics.php" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.php" class="nav-item nav-link">Technology</a>
+                            <a href="Technology.php" class="nav-item nav-link">Technology</a> 
                         </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
@@ -98,14 +98,6 @@
         </div>
         <!-- Nav Bar End -->
         
-        <!-- Breadcrumb Start -->
-        <div class="breadcrumb-wrap">
-            <div class="container">
-                <ul class="breadcrumb">
-                </ul>
-            </div>
-        </div>
-        <!-- Breadcrumb End -->
         
         
         <!-- Single News Start-->
@@ -115,20 +107,19 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/apple.jpeg" />
+                                <img src="img/putink.jpg"/>
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Apple's Biggest Customer of 'Made in America' Chip, More Sophisticated iPhone?</h1>
+                                <h1 class="sn-title">Putin’s winter of inhumanity takes Ukraine war and US aid to a new level</h1>
+                                
                                 <p>
-                                TSMC is a specialty company that manufactures and designs chips for other companies. Companies like Apple, AMD, and NVIDIA are some of its biggest customers, and even Intel relies on TSMC to make the most advanced processors.
-                                <p>
-                                Apple plans to start using processors made in the United States following the opening of a new chip factory in Phoenix, Arizona, USA. With this new facility in collaboration with a Taiwanese semiconductor manufacturer, TSMC, chip supply for the technology company from the US is considered safer, with faster production times.
-                                <p>
-                                Chief executives of Apple, AMD and NVIDIA confirmed they will be the first customers to buy chips from the Arizona plant. "TSMC has become the global platform on which the world's technology industry is built. Bringing TSMC's investment to the United States is a crushing blow and a game-changing development for the industry," said NVIDIA CEO Jensen Huang. TSMC's customers did not disclose how many chips they plan to buy. However, the 3nm and 4nm chips made by the Arizona factory are claimed to be more sophisticated than what they are currently using.
-                                <p>
-                                By the time the Arizona manufacturer was operational, TSMC was soon producing more advanced chips at an overseas facility. The company plans to produce 2nm chips by 2025, according to Nikkei Asia.
-                                </p>
+                                By bombing the power grid meant to sustain Ukrainians through dark, cold months, Vladimir Putin is inflicting some of the most barbaric wartime conditions experienced by civilians in Europe for decades.
 
+                                The use of winter as a weapon of war is designed to break the will of a nation that has humbled Russian forces – and to test the generosity of Western publics footing the bill for Ukraine’s defense. And it is forcing President Joe Biden and other leaders to make another round of adjustments to the lifeline of armaments and aid sustaining Ukraine’s resistance.
+                                    <br>
+                                    </br>
+                                    The intensity of Moscow’s deliberate targeting of civilians has also revived questions over if and when the world should press for a diplomatic end to the war as well as a rising domestic political debate about how long multi-billion dollar aid must last. This pressure, notably inside the incoming Republican House majority, often spikes alongside Putin’s calculated spurts of nuclear brinkmanship and whenever fears rise that the war will spill into NATO territory.
+                                </p>
                             </div>
                         </div>
                         <div class="sn-related">
@@ -136,34 +127,33 @@
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/airpods.jpeg" />
+                                        <img src="img/rkuhp.jpeg" />
                                         <div class="sn-title">
-                                            <a href="airpods.php">Hidden specs in apple airpods</a>
+                                            <a href="rkuhp.php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/iphone.jpeg" />
+                                        <img src="img/biden meet prince and princess.jpg" />
                                         <div class="sn-title">
-                                            <a href="iphonesupp.php">iPhone 14 supplies faltered ahead of Christmas celebrations</a>
+                                            <a href="biden.php">Biden to greet Prince and Princess of Wales while in Boston</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/logo apple.jpg" />
+                                        <img src="img/trumpdoc.jpg" />
                                         <div class="sn-title">
-                                            <a href="appletrack.php">Apple can track users even if the location setting is off</a>
+                                            <a href="">Lawmaker explains what Democrats are planning to do with Trump's tax documents</a>
                                         </div>
                                     </div>
                                 </div>
-
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/iphone kabel c.jpeg" />
+                                        <img src="img/cool trump.jpg" />
                                         <div class="sn-title">
-                                            <a href="iptypeC.php">Iphone will use type c cable</a>
+                                            <a href="trumpdefeat.php">Trump’s rough day in court ends with a double defeat</a>
                                         </div>
                                     </div>
                                 </div>
@@ -174,18 +164,13 @@
                     <div class="col-lg-4">
                         <div class="sidebar">
                             <div class="sidebar-widget">
-     
+                            </div>
                             
                             <div class="sidebar-widget">
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
-                                        
                                         <li class="nav-item">
-<<<<<<< HEAD
-                                            <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
-=======
                                             <a class="nav-link active" data-toggle="pill" href="#popular">Popular</a>
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
@@ -193,175 +178,115 @@
                                     </ul>
 
                                     <div class="tab-content">
-<<<<<<< HEAD
-                                        <div id="featured" class="container tab-pane active">
+                                    <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/ponselthnair.jpeg" />
+                                                    <img src="img/senate.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">some waterproof cellphones ready to be taken out in the rain</a>
+                                                    <a href="senate.php">Schumer: Senate will not leave without a freight rail agreement</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/ios16.png" />
+                                                    <img src="img/biden and macron.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
+                                                    <a href="">Biden and Macron show united front ahead of bilateral meeting</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/baterai.jpeg" />
+                                                    <img src="img/monkeypox.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">The World's Electric Vehicles Depend on Indonesian Batteries</a>
+                                                    <a href="">White House eyes end of mpox emergency</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/tvanalog.jpeg" />
+                                                    <img src="img/biden in paris.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">analog tv will stop operating on december 20th</a>
+                                                    <a href="">Biden enters a new type of tango with Paris</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/speedtest.jpg
-                                                    " />
+                                                    <img src="img/china protest.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">comparison of internet speed in RI and Singapore</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div id="popular" class="container tab-pane fade">
-=======
-                                        
-                                        <div id="popular" class="container tab-pane active">
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/ponselthnair.jpeg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">some waterproof cellphones ready to be taken out in the rain</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/ios16.png" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/baterai.jpeg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">The World's Electric Vehicles Depend on Indonesian Batteries</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/tvanalog.jpeg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">analog tv will stop operating on december 20th</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/speedtest.jpg
-                                                    " />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">comparison of internet speed in RI and Singapore</a>
+                                                    <a href="">U.S. believes China protests won’t spread — for now</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div id="latest" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/avert arail.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="avertrail.php">Congress Is Trying to Avert a Rail Strike. Here’s How and Why</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/water system in jackson.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Justice Dept. Strikes Deal to Address Struggling Water System in Jackson</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-5.jpg" />
+                                                    <img src="img/mccarty investigate.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">McCarthy Warns Jan. 6 Committee Republicans Will Investigate Its Work</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/in georgia pace keep calm.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">In Georgia, Walker’s Pace in the Finish Worries Republican Allies</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/nato grow.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">NATO Nations Grow More Receptive to U.S. Pleas to Confront China</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                        
 
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-<<<<<<< HEAD
-                                        <li><a href="">Sports</a><span>(98)</span></li>
-                                        <li><a href="">Entertainment</a><span>(87)</span></li>
-                                        <li><a href="">Technology</a><span>(76)</span></li>
-                                        <li><a href="">Politics</a><span>(65)</span></li>
-=======
-                                    <li><a href="Politics.php">Politics</a><span>(65)</span></li>
-                                        <li><a href="Entertaiment.php">Entertaiment</a><span>(54)</span></li>
-                                        <li><a href="sport.php">sport</a><span>(43)</span></li>
-                                        <li><a href="Technology.php">Tech</a><span>(32)</span></li>
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
+                                        <li><a href="sport.php">Sports</a><span>(98)</span></li>
+                                        <li><a href="Entertaiment.php">Entertainment</a><span>(87)</span></li>
+                                        <li><a href="Technology.php">Technology</a><span>(76)</span></li>
+                                        <li><a href="Politics.php">Politics</a><span>(65)</span></li>
                                     </ul>
                                 </div>
                             </div>
 
-
-                            
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">Tags Cloud</h2>
                                 <div class="tags">
-                                    <a href="">National</a>
-                                    <a href="">International</a>
-                                    <a href="">Economics</a>
-                                    <a href="">Politics</a>
-                                    <a href="">Lifestyle</a>
-                                    <a href="">Technology</a>
-                                    <a href="">Trades</a>
+                                    
+                                    <a href="sport.php">Sport</a>
+                                    <a href="Politics.php">Politics</a>
+                                    <a href="Entertaiment.php">Entertaiment</a>
+                                    <a href="Technology.php">Technology</a>
+                                    
                                 </div>
                             </div>
                         </div>

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Dec 05, 2022 at 04:25 PM
+-- Generation Time: Dec 08, 2022 at 04:42 PM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 8.1.12
 
@@ -24,43 +24,43 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Table structure for table `register`
+-- Table structure for table `users`
 --
 
-CREATE TABLE `register` (
-  `id` int(11) NOT NULL,
-  `username` varchar(255) NOT NULL,
-  `email` varchar(255) NOT NULL,
-  `password` varchar(255) NOT NULL
+CREATE TABLE `users` (
+  `usersId` int(11) NOT NULL,
+  `usersName` varchar(128) NOT NULL,
+  `usersEmail` varchar(128) NOT NULL,
+  `usersUid` varchar(128) NOT NULL,
+  `usersPwd` varchar(128) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
--- Dumping data for table `register`
+-- Dumping data for table `users`
 --
 
-INSERT INTO `register` (`id`, `username`, `email`, `password`) VALUES
-(1, 'Tutorial', 'tutorial@gmail.com', '0139a3c5cf42394be982e766c93f5ed0');
+INSERT INTO `users` (`usersId`, `usersName`, `usersEmail`, `usersUid`, `usersPwd`) VALUES
+(1, 'teuku auli azhar', 'teukuauli18@gmail.com', 'teukuauli18', '$2y$10$NYxjFzWLIUopftzIsYg.qOLQOxWSJ.uRnhuFjqj58qbpXvGJ6U7JS');
 
 --
 -- Indexes for dumped tables
 --
 
 --
--- Indexes for table `register`
+-- Indexes for table `users`
 --
-ALTER TABLE `register`
-  ADD PRIMARY KEY (`id`),
-  ADD UNIQUE KEY `username` (`username`);
+ALTER TABLE `users`
+  ADD PRIMARY KEY (`usersId`);
 
 --
 -- AUTO_INCREMENT for dumped tables
 --
 
 --
--- AUTO_INCREMENT for table `register`
+-- AUTO_INCREMENT for table `users`
 --
-ALTER TABLE `register`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=8;
+ALTER TABLE `users`
+  MODIFY `usersId` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

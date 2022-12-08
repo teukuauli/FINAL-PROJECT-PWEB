@@ -134,7 +134,7 @@
                                     <div class="sn-img">
                                         <img src="img/putink.jpg" />
                                         <div class="sn-title">
-                                            <a href="">Putin’s winter of inhumanity takes Ukraine war and US aid to a new level</a>
+                                            <a href="putin.php">Putin’s winter of inhumanity takes Ukraine war and US aid to a new level</a>
                                         </div>
                                     </div>
                                 </div>
@@ -142,15 +142,15 @@
                                     <div class="sn-img">
                                         <img src="img/biden meet prince and princess.jpg" />
                                         <div class="sn-title">
-                                            <a href="">Biden to greet Prince and Princess of Wales while in Boston</a>
+                                            <a href="biden.php">Biden to greet Prince and Princess of Wales while in Boston</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/trump.jpg" />
+                                        <img src="img/trumpdoc.jpg" />
                                         <div class="sn-title">
-                                            <a href="">Lawmaker explains what Democrats are planning to do with Trump's tax documents</a>
+                                            <a href="trumpdoc.php">Lawmaker explains what Democrats are planning to do with Trump's tax documents</a>
                                         </div>
                                     </div>
                                 </div>
@@ -158,7 +158,7 @@
                                     <div class="sn-img">
                                         <img src="img/cool trump.jpg" />
                                         <div class="sn-title">
-                                            <a href="">Trump’s rough day in court ends with a double defeat</a>
+                                            <a href="trumpdefeat.php">Trump’s rough day in court ends with a double defeat</a>
                                         </div>
                                     </div>
                                 </div>
@@ -175,7 +175,7 @@
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
                                         <li class="nav-item">
-                                            <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
+                                            <a class="nav-link active" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
@@ -189,7 +189,7 @@
                                                     <img src="img/senate.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Schumer: Senate will not leave without a freight rail agreement</a>
+                                                    <a href="senate.php">Schumer: Senate will not leave without a freight rail agreement</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
@@ -231,7 +231,7 @@
                                                     <img src="img/avert arail.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Congress Is Trying to Avert a Rail Strike. Here’s How and Why</a>
+                                                    <a href="avertrail.php">Congress Is Trying to Avert a Rail Strike. Here’s How and Why</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">

@@ -175,7 +175,7 @@
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
                                         <li class="nav-item">
-                                            <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
+                                            <a class="nav-link active" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
@@ -183,7 +183,7 @@
                                     </ul>
 
                                     <div class="tab-content">
-                                        <div id="popular" class="container tab-pane fade">
+                                        <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
                                                     <img src="img/stloco.jpg" />
@@ -271,13 +271,10 @@
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">Tags Cloud</h2>
                                 <div class="tags">
-                                    <a href="">National</a>
-                                    <a href="">International</a>
-                                    <a href="">Economics</a>
-                                    <a href="">Politics</a>
-                                    <a href="">Lifestyle</a>
-                                    <a href="">Technology</a>
-                                    <a href="">Trades</a>
+                                    <a href="sport.php">Sport</a>
+                                    <a href="Politics.php">Politics</a>
+                                    <a href="Entertaiment.php">Entertaiment</a>
+                                    <a href="Technology.php">Technology</a>
                                 </div>
                             </div>
                         </div>
