@@ -14,7 +14,6 @@ if(isset($_POST['uid']) && isset($_POST['pwd']) )
      }
      else {
         loginUser($conn,$username,$pwd);
-        header("location: ../index.php");
 
      }
    
