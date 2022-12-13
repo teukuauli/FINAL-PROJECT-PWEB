@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -59,12 +58,6 @@
                             </a>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-4">
-                        <div class="b-search">
-                            <input type="text" placeholder="Search">
-                            <button><i class="fa fa-search"></i></button>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
@@ -80,13 +73,6 @@
                     </button>
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
-                        <div class="navbar-nav mr-auto">
-                            <a href="index.php" class="nav-item nav-link">Home</a>
-                            <a href="sport.php" class="nav-item nav-link">Sports</a>
-                            <a href="Entartaiment.php" class="nav-item nav-link">Entartaiment</a>
-                            <a href="Politics.php" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.php" class="nav-item nav-link">Technology</a> 
-                        </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
                             <a class="text-light" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-sm fa-fw me-2"></i></a>
@@ -98,18 +84,6 @@
             </div>
         </div>
         <!-- Nav Bar End -->
-        
-        <!-- Breadcrumb Start -->
-        <div class="breadcrumb-wrap">
-            <div class="container">
-                <ul class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">News</a></li>
-                    <li class="breadcrumb-item active">News details</li>
-                </ul>
-            </div>
-        </div>
-        <!-- Breadcrumb End -->
         
         <!-- Single News Start-->
         <form action="includes/Register.inc.php"method="post">

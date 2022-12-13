@@ -39,38 +39,4 @@ if(isset($_POST['submit']))
         exit();
      }
 
-     function emptyInputLogin($username, $pwd){
-      $result;
-      if (empty($username) || empty($pwd)){
-          $result = true;
-      }
-      else{
-          $result = false;
-      }
-      return $result;
-  }
-
-  function loginUser($conn,$username,$pwd){
-   $uidExists = uidExists($conn, $username, $email );
-
-   if ($uidExists === false) {
-      header("location: ../Login.php?error=wronglogin");
-      exit();
-  }
-
-  $pwdHashed = $uidExists["usersPwd"];
-  $checkPwd = password_verify($pwd, $pwdHashed);
-
-  if ($checkPwd === false) {
-   header("location: ../Login.php?error=wronglogin");
-   exit();
-  }
-  else if ($checkPwd === true) {
-   session_start();
-   $_SESSION["usersid"] = $uidExists["usersid"];
-   $_SESSION["usersuid"] = $uidExists["usersuid"];
-   header("location: ../index.php");
-   exit();
-  }
-
-}
+   
