@@ -181,11 +181,7 @@
                                     <ul class="nav nav-pills nav-justified">
                                         
                                         <li class="nav-item">
-<<<<<<< HEAD
-                                            <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
-=======
                                             <a class="nav-link active" data-toggle="pill" href="#popular">Popular</a>
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
@@ -193,7 +189,6 @@
                                     </ul>
 
                                     <div class="tab-content">
-<<<<<<< HEAD
                                         <div id="featured" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
@@ -238,10 +233,8 @@
                                             </div>
                                         </div>
                                         <div id="popular" class="container tab-pane fade">
-=======
                                         
                                         <div id="popular" class="container tab-pane active">
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
                                             <div class="tn-news">
                                                 <div class="tn-img">
                                                     <img src="img/ponselthnair.jpeg" />
@@ -335,17 +328,11 @@
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-<<<<<<< HEAD
-                                        <li><a href="">Sports</a><span>(98)</span></li>
-                                        <li><a href="">Entertainment</a><span>(87)</span></li>
-                                        <li><a href="">Technology</a><span>(76)</span></li>
-                                        <li><a href="">Politics</a><span>(65)</span></li>
-=======
+                                        
                                     <li><a href="Politics.php">Politics</a><span>(65)</span></li>
                                         <li><a href="Entertaiment.php">Entertaiment</a><span>(54)</span></li>
                                         <li><a href="sport.php">sport</a><span>(43)</span></li>
                                         <li><a href="Technology.php">Tech</a><span>(32)</span></li>
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
                                     </ul>
                                 </div>
                             </div>

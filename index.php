@@ -85,6 +85,208 @@
             </div>
         </div>
         <!-- Nav Bar End -->
+<<<<<<< HEAD
+=======
+
+        <!-- Top News Start-->
+        <div class="top-news">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 tn-left">
+                        <div class="row tn-slider">
+                            <div class="col-md-6">
+                                <div class="tn-img">
+                                    <img src="img/rkuhp.jpeg" />
+                                    <div class="tn-title">
+                                        <a href=".php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="tn-img">
+                                    <img src="img/australia alert ri.jpeg" />
+                                    <div class="tn-title">
+                                        <a  href="australia.php">Alert! Australia Resmi Keluarkan 'Travel Warning' untuk RI</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 tn-right">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="tn-img">
+                                    <img src="img/outside sex.webp" />
+                                    <div class="tn-title">
+                                        <a href="outside sex.php">Indonesia passes criminal code banning sex outside marriage</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="tn-img">
+                                    <img src="img/avert arail.webp" />
+                                    <div class="tn-title">
+                                        <a href="avertrail.php">Congress Moved to Avert a Rail Strike. Here’s How and Why</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="tn-img">
+                                    <img src="img/new criminal code.webp" />
+                                    <div class="tn-title">
+                                        <a href="criminalcode.php">Indonesia: New Criminal Code Disastrous for Rights</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="tn-img">
+                                    <img src="img/lawmaker pass.jpg" />
+                                    <div class="tn-title">
+                                        <a href="">Lawmakers pass revised Criminal Code despite protests</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Top News End-->
+
+        <!-- Category News Start-->
+        <div class="cat-news">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2><a href="sport.php" class="nav-item nav-link">Sports</a></h2>
+                        <div class="row cn-slider">
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/ronaldo world cup.jpg" />
+                                    <div class="cn-title">
+                                        <a href="sport.php">Cristiano Ronaldo a 'total genius' for winning Portugal penalty</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/tunisia.webp" />
+                                    <div class="cn-title">
+                                        <a href="tunisia.php">Australia boost qualification chances with 1-0 win over Tunisia</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/WCGROUP.webp" />
+                                    <div class="cn-title">
+                                        <a href="arabteam.php">What are the World Cup 2022 groups?</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <h2><a href="Technology.php" class="nav-item nav-link">Technology</a></h2>
+                        <div class="row cn-slider">
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/airpods.jpeg" />
+                                    <div class="cn-title">
+                                        <a href="airpods.php">Hidden Specs in Apple's AirPods: Hearing Aids</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/apple.jpeg" />
+                                    <div class="cn-title">
+                                        <a href="technology.php">Apple's Biggest Customer of 'Made in America' Chip, More Sophisticated iPhone?</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/iphone kabel c.jpeg" />
+                                    <div class="cn-title">
+                                        <a href="iptypeC.php">iPhone will use a USB-C cable</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Category News End-->
+
+        <!-- Category News Start-->
+        <div class="cat-news">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <h2><a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a></h2>
+                        <div class="row cn-slider">
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/kaesang.jpg" />
+                                    <div class="cn-title">
+                                        <a href="Entertaiment.php">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/raffi ahmad.webp" />
+                                    <div class="cn-title">
+                                        <a href="raffi.php">Raffi Ahmad sekeluarga nonton piala dunia di Qatar</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/lary exo.jpeg" />
+                                    <div class="cn-title">
+                                        <a href="layexo.php">Lay exo terbang ke korea Exo bakal comeback full team?</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <h2><a href="Politics.php" class="nav-item nav-link">Politics</a></h2>
+                        <div class="row cn-slider">
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/razman.webp" />
+                                    <div class="cn-title">
+                                        <a href="Politics.php">Sidang Razman Arif Nasution Vs Richard Lee Berlangsung Ricuh</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/senate.jpg" />
+                                    <div class="cn-title">
+                                        <a href="senate.php">Schumer: Senate will not leave without a freight rail agreement</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="cn-img">
+                                    <img src="img/cool trump.jpg" />
+                                    <div class="cn-title">
+                                        <a href="trumpdefeat.php">Trump’s rough day in court ends with a double defeat</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Category News End-->
+>>>>>>> c307e0e14e034f1c43a400b51459558f8610be38
         
         <!-- Single News Start-->
         <form action="includes/login.inc.php"method="post">

@@ -107,7 +107,7 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/news-825x825.jpg"/>
+                                <img src="img/kaesang.jpg"/>
                             </div>
                             <div class="sn-content">
                                 <h1 class="sn-title">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</h1>
