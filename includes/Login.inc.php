@@ -9,7 +9,7 @@ if(isset($_POST['uid']) && isset($_POST['pwd']) )
     $pwd = $_POST["pwd"];
 
     if (emptyInputLogin($username, $pwd ) !== false ){
-        header("location: ../Login.php?error=emptyInput");
+        header("location: ../index.php?error=emptyInput");
         exit();
      }
      else {
@@ -19,6 +19,6 @@ if(isset($_POST['uid']) && isset($_POST['pwd']) )
    
 }
 else {
-    header("location: ../Login.php");
+    header("location: ../index.php");
     exit();
 }

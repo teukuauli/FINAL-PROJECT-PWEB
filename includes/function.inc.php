@@ -107,14 +107,14 @@ function emptyInputLogin($username, $pwd){
 //     }
 // }
 
-function usernameCheck($conn, $username){
-    $sql= "SELECT * FROM users WHERE usersUid = ?;";
-    $stmt = mysqli_stmt_init($conn);
-    if(!mysqli_stmt_prepare($stmt,$sql)){
-        header("location: ../Login.php?error=invalidUsername");
-        exit();
-    }
-}
+// function usernameCheck($conn, $username){
+//     $sql= "SELECT * FROM users WHERE usersUid = ?;";
+//     $stmt = mysqli_stmt_init($conn);
+//     if(!mysqli_stmt_prepare($stmt,$sql)){
+//         header("location: ../index.php?error=invalidUsername");
+//         exit();
+//     }
+// }
 
 // function emptyInputLogin($username, $pwd){
 //     $result;
@@ -131,7 +131,7 @@ function loginUser($conn,$username,$pwd){
  $uidExists = uidExists($conn, $username, $email );
 
  if ($uidExists === false) {
-    header("location: ../Login.php?error=wronglogin");
+    header("location: ../index.php?error=wronglogin");
     exit();
 }
 
@@ -139,7 +139,7 @@ $pwdHashed = $uidExists["usersPwd"];
 $checkPwd = password_verify($pwd, $pwdHashed);
 
 if ($checkPwd === false) {
- header("location: ../Login.php?error=wronglogin");
+ header("location: ../index.php?error=wronglogin");
  exit();
 }
 else if ($checkPwd === true) {
