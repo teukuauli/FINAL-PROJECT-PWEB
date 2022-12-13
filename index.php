@@ -157,7 +157,7 @@ session_start();
                                 <div class="tn-img">
                                     <img src="img/new criminal code.webp" />
                                     <div class="tn-title">
-                                        <a href="">Indonesia: New Criminal Code Disastrous for Rights</a>
+                                        <a href="criminalcode.php">Indonesia: New Criminal Code Disastrous for Rights</a>
                                     </div>
                                 </div>
                             </div>
@@ -185,25 +185,25 @@ session_start();
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-1.jpg" />
+                                    <img src="img/ronaldo world cup.jpg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="sport.php">Cristiano Ronaldo a 'total genius' for winning Portugal penalty</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-2.jpg" />
+                                    <img src="img/tunisia.webp" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="tunisia.php">Australia boost qualification chances with 1-0 win over Tunisia</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-3.jpg" />
+                                    <img src="img/WCGROUP.webp" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="arabteam.php">What are the World Cup 2022 groups?</a>
                                     </div>
                                 </div>
                             </div>
@@ -214,25 +214,25 @@ session_start();
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-4.jpg" />
+                                    <img src="img/airpods.jpeg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="airpods.php">Hidden Specs in Apple's AirPods: Hearing Aids</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-5.jpg" />
+                                    <img src="img/apple.jpeg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="technology.php">Apple's Biggest Customer of 'Made in America' Chip, More Sophisticated iPhone?</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-1.jpg" />
+                                    <img src="img/iphone kabel c.jpeg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="iptypeC.php">iPhone will use a USB-C cable</a>
                                     </div>
                                 </div>
                             </div>
@@ -252,25 +252,25 @@ session_start();
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-5.jpg" />
+                                    <img src="img/kaesang.jpg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="Entertaiment.php">Komentar Kocak Kaesang Saat Tahu Pernikahannya Viral</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-4.jpg" />
+                                    <img src="img/raffi ahmad.webp" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="raffi.php">Raffi Ahmad sekeluarga nonton piala dunia di Qatar</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-3.jpg" />
+                                    <img src="img/lary exo.jpeg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="layexo.php">Lay exo terbang ke korea Exo bakal comeback full team?</a>
                                     </div>
                                 </div>
                             </div>
