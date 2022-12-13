@@ -85,8 +85,8 @@
             </div>
         </div>
         <!-- Nav Bar End -->
-<<<<<<< HEAD
-=======
+<<<<<<<<< Temporary merge branch 1
+=========
 
         <!-- Top News Start-->
         <div class="top-news">
@@ -286,7 +286,7 @@
             </div>
         </div>
         <!-- Category News End-->
->>>>>>> c307e0e14e034f1c43a400b51459558f8610be38
+>>>>>>>>> Temporary merge branch 2
         
         <!-- Single News Start-->
         <form action="includes/login.inc.php"method="post">
