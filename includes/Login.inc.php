@@ -1,19 +1,22 @@
 <?php
 
-if(isset($_POST['submit']))
+require_once 'db.inc.php';
+require_once 'function.inc.php';
+
+if(isset($_POST['uid']) && isset($_POST['pwd']) )
 {	
     $username = $_POST["uid"];
     $pwd = $_POST["pwd"];
 
-    require_once 'db.inc.php';
-    require_once 'function.inc.php';
-
-    if (emptyInputRLogin($username, $pwd ) !== false ){
+    if (emptyInputLogin($username, $pwd ) !== false ){
         header("location: ../Login.php?error=emptyInput");
         exit();
      }
+     else {
+        loginUser($conn,$username,$pwd);
+        header("location: ../index.php");
 
-     loginUser($conn,$username,$pwd);
+     }
    
 }
 else {

@@ -118,10 +118,10 @@
               <p>Please fill in this form to create an account.</p>
               <hr>
               <label for="username"><b>Username</b></label>
-              <input type="username" placeholder="Enter username" name="username" id="username" required>
+              <input type="text" placeholder="Enter username" name="uid">
           
               <label for="pwd"><b>Password</b></label>
-              <input type="password" placeholder="Enter Password" name="pwd" id="pwd" required>
+              <input type="password" placeholder="Enter Password" name="pwd">
 
               <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
               <button type="submit" name= "login">Log in</button>
@@ -211,6 +211,6 @@
         <script src="lib/slick/slick.min.js"></script>
 
         <!-- Template Javascript -->
-        <script src="js/main.js"></script>
+        <!-- <script src="js/main.js"></script> -->
     </body>
 </html>

@@ -87,6 +87,25 @@ function createUser($conn, $name, $email, $username, $pwd){
 
 }
 
+function emptyInputLogin($username, $pwd){
+    $result;
+    if (empty($username) || empty($pwd)){
+        $result = true;
+    }
+    else{
+        $result = false;
+    }
+    return $result;
+}
+
+function loginUser($conn,$username, $pwd){
+    $sql= "INSERT INTO users (usersUid,usersPwd) VALUE (? ,?);";
+    $stmt = mysqli_stmt_init($conn);
+    if(!mysqli_stmt_prepare($stmt,$sql)){
+        header("location: ../Login.php?error=stmtfailed");
+        exit();
+    }
+}
 
 
 
