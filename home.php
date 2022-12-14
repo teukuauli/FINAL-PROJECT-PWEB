@@ -316,10 +316,7 @@ session_start();
                     <div class="col-md-6">
                         <ul class="nav nav-pills nav-justified">
                             <li class="nav-item">
-                                <a class="nav-link active" data-toggle="pill" href="#featured">Featured News</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" data-toggle="pill" href="#popular">Popular News</a>
+                                <a class="nav-link active" data-toggle="pill" href="#popular">Popular News</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" data-toggle="pill" href="#latest">Latest News</a>
@@ -327,81 +324,55 @@ session_start();
                         </ul>
 
                         <div class="tab-content">
-                            <div id="featured" class="container tab-pane active">
+                            <div id="popular" class="container tab-pane active">
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-1.jpg" />
+                                        <img src="img/senate.jpg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="senate.php">Schumer: Senate will not leave without a freight rail agreement</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-2.jpg" />
+                                        <img src="img/instagram.jpeg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="instagram.php">Instagram's New Feature, Short Tweets But Not Tweets</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-3.jpg" />
+                                        <img src="img/billie.jpg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="popular" class="container tab-pane fade">
-                                <div class="tn-news">
-                                    <div class="tn-img">
-                                        <img src="img/news-350x223-4.jpg" />
-                                    </div>
-                                    <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
-                                    </div>
-                                </div>
-                                <div class="tn-news">
-                                    <div class="tn-img">
-                                        <img src="img/news-350x223-5.jpg" />
-                                    </div>
-                                    <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
-                                    </div>
-                                </div>
-                                <div class="tn-news">
-                                    <div class="tn-img">
-                                        <img src="img/news-350x223-1.jpg" />
-                                    </div>
-                                    <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="billieellish.php">Billie Eilish really happy about relationship with Jesse Rutherford</a>
                                     </div>
                                 </div>
                             </div>
                             <div id="latest" class="container tab-pane fade">
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-2.jpg" />
+                                        <img src="img/kim.jpg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="kimkadarshian.php">Kim Kardashian and Kanye West reach divorce settlement</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-3.jpg" />
+                                        <img src="img/ponselthnair.jpeg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                    <a href="tahanair.php">some waterproof cellphones ready to be taken out in the rain</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-4.jpg" />
+                                        <img src="img/cool trump.jpg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="">Trump’s rough day in court ends with a double defeat</a>
                                     </div>
                                 </div>
                             </div>
@@ -425,52 +396,52 @@ session_start();
                             <div id="m-viewed" class="container tab-pane active">
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-5.jpg" />
+                                        <img src="img/trumpdoc.jpg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                    <a href="trumpdoc.php">Lawmaker explains what Democrats are planning to do with Trump's tax documents</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-4.jpg" />
+                                        <img src="img/logo apple.jpg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                    <a href="appletrack.php">Apple can track users even if the location setting is off</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-3.jpg" />
+                                        <img src="img/arab team news.webp" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                       <a href="arabteam.php">Arab teams turn Qatar World Cup into a ‘home’ tournament</a></a>
                                     </div>
                                 </div>
                             </div>
                             <div id="m-read" class="container tab-pane fade">
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-2.jpg" />
+                                        <img src="img/WCGROUP.webp" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                    <a href="worldgroup.php">What are the World Cup 2022 groups?</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-1.jpg" />
+                                        <img src="img/airpods.jpeg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                    <a href="airpods.php">Hidden specs in apple airpods</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-3.jpg" />
+                                        <img src="img/biden meet prince and princess.jpg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                    <a href="biden.php">Biden to greet Prince and Princess of Wales while in Boston</a>
                                     </div>
                                 </div>
                             </div>

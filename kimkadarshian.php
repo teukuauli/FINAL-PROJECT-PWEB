@@ -175,10 +175,7 @@ In an interview with Vogue earlier this year, the Skims founder explained what l
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
                                         <li class="nav-item">
-                                            <a class="nav-link active" data-toggle="pill" href="#featured">Featured</a>
-                                        </li>
-                                        <li class="nav-item">
-                                            <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
+                                            <a class="nav-link active" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
@@ -186,7 +183,7 @@ In an interview with Vogue earlier this year, the Skims founder explained what l
                                     </ul>
 
                                     <div class="tab-content">
-                                        <div id="popular" class="container tab-pane fade">
+                                        <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
                                                     <img src="img/stloco.jpg" />
