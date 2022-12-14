@@ -80,7 +80,7 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.php" class="nav-item nav-link">Home</a>
+                            <a href="home.php" class="nav-item nav-link">Home</a>
                             <a href="sport.php" class="nav-item nav-link">Sports</a>
                             <a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a>
                             <a href="Politics.php" class="nav-item nav-link">Politics</a>
@@ -224,60 +224,14 @@
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/speedtest.jpg
-                                                    " />
+                                                    <img src="img/speedtest.jpg" />
                                                 </div>
                                                 <div class="tn-title">
                                                     <a href="">comparison of internet speed in RI and Singapore</a>
                                                 </div>
                                             </div>
-                                        </div>
-                                        <div id="popular" class="container tab-pane fade">
-                                        
-                                        <div id="popular" class="container tab-pane active">
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/ponselthnair.jpeg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">some waterproof cellphones ready to be taken out in the rain</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/ios16.png" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/baterai.jpeg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">The World's Electric Vehicles Depend on Indonesian Batteries</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/tvanalog.jpeg" />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">analog tv will stop operating on december 20th</a>
-                                                </div>
-                                            </div>
-                                            <div class="tn-news">
-                                                <div class="tn-img">
-                                                    <img src="img/speedtest.jpg
-                                                    " />
-                                                </div>
-                                                <div class="tn-title">
-                                                    <a href="">comparison of internet speed in RI and Singapore</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div id="latest" class="container tab-pane fade">
+
+                                            <div id="latest" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
                                                     <img src="img/news-350x223-3.jpg" />
@@ -319,10 +273,7 @@
                                                 </div>
                                             </div>
                                         </div>
-                                    </div>
-                                </div>
-                            </div>
-                        
+                                
 
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">News Category</h2>

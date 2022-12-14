@@ -80,7 +80,7 @@
 
                     <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
                         <div class="navbar-nav mr-auto">
-                            <a href="index.php" class="nav-item nav-link">Home</a>
+                            <a href="home.php" class="nav-item nav-link">Home</a>
                             <a href="sport.php" class="nav-item nav-link">Sports</a>
                             <a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a>
                             <a href="Politics.php" class="nav-item nav-link">Politics</a>

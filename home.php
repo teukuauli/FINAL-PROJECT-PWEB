@@ -213,25 +213,25 @@ session_start();
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-4.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                <img src="img/airpods.jpeg" />
+                                        <div class="cn-title">
+                                            <a href="airpods.php">Hidden specs in apple airpods</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-5.jpg" />
+                                    <img src="img/ios16.png" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-1.jpg" />
+                                <img src="img/logo apple.jpg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="appletrack.php">Apple can track users even if the location setting is off</a>
                                     </div>
                                 </div>
                             </div>
