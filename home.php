@@ -448,26 +448,26 @@ session_start();
                             <div id="m-recent" class="container tab-pane fade">
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-4.jpg" />
+                                        <img src="img/speedtest.jpg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="internet.php">comparison of internet speed in RI and Singapore</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-5.jpg" />
+                                        <img src="img/meteor.jpeg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="meteor.php">Geminid Meteor Shower Will Soon Reach Its Peak, How Much Can It Be?</a>
                                     </div>
                                 </div>
                                 <div class="tn-news">
                                     <div class="tn-img">
-                                        <img src="img/news-350x223-1.jpg" />
+                                        <img src="img/tvanalog.jpeg" />
                                     </div>
                                     <div class="tn-title">
-                                        <a href="">Lorem ipsum dolor sit amet</a>
+                                        <a href="tvanalog.php">analog tv will stop operating on december 20th</a>
                                     </div>
                                 </div>
                             </div>
@@ -486,65 +486,25 @@ session_start();
                         <div class="row">
                             <div class="col-md-4">
                                 <div class="mn-img">
-                                    <img src="img/news-350x223-1.jpg" />
+                                    <img src="img/tunisia.webp" />
                                     <div class="mn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">Australia boost qualification chances with 1-0 win over Tunisia</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="mn-img">
-                                    <img src="img/news-350x223-2.jpg" />
+                                    <img src="img/monkeypox.jpg" />
                                     <div class="mn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">White House eyes end of mpox emergency</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-4">
                                 <div class="mn-img">
-                                    <img src="img/news-350x223-3.jpg" />
+                                    <img src="img/westlife.jpg" />
                                     <div class="mn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/news-350x223-4.jpg" />
-                                    <div class="mn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/news-350x223-5.jpg" />
-                                    <div class="mn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/news-350x223-1.jpg" />
-                                    <div class="mn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/news-350x223-2.jpg" />
-                                    <div class="mn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/news-350x223-3.jpg" />
-                                    <div class="mn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="">Westlife singer Mark Feehily pulls out of shows due to pneumonia</a>
                                     </div>
                                 </div>
                             </div>
@@ -553,6 +513,46 @@ session_start();
                                     <img src="img/news-350x223-4.jpg" />
                                     <div class="mn-title">
                                         <a href="">Lorem ipsum dolor sit</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="mn-img">
+                                    <img src="img/teleskop.jpeg" />
+                                    <div class="mn-title">
+                                        <a href="">The James Webb Telescope Breaks the Record for the Most Distant Galaxy Detection</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="mn-img">
+                                    <img src="img/mccarty investigate.webp" />
+                                    <div class="mn-title">
+                                        <a href="">McCarthy Warns Jan. 6 Committee Republicans Will Investigate Its Work</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="mn-img">
+                                    <img src="img/macet.jpeg" />
+                                    <div class="mn-title">
+                                        <a href="">Google's AI Way to Break Down Jakarta Traffic: Outsmart the Red Light Duration</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="mn-img">
+                                    <img src="img/nato grow.webp" />
+                                    <div class="mn-title">
+                                        <a href="">NATO Nations Grow More Receptive to U.S. Pleas to Confront China</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="mn-img">
+                                    <img src="img/water system in jackson.webp" />
+                                    <div class="mn-title">
+                                        <a href="">Justice Dept. Strikes Deal to Address Struggling Water System in Jackson</a>
                                     </div>
                                 </div>
                             </div>
