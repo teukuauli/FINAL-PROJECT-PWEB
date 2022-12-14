@@ -84,7 +84,7 @@
                             <a href="sport.php" class="nav-item nav-link">Sports</a>
                             <a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a>
                             <a href="Politics.php" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.php" class="nav-item nav-link">Technology</a> 
+                            <a href="Technology.php" class="nav-item nav-link">Technology</a>
                         </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
@@ -98,6 +98,14 @@
         </div>
         <!-- Nav Bar End -->
         
+        <!-- Breadcrumb Start -->
+        <div class="breadcrumb-wrap">
+            <div class="container">
+                <ul class="breadcrumb">
+                </ul>
+            </div>
+        </div>
+        <!-- Breadcrumb End -->
         
         
         <!-- Single News Start-->
@@ -107,20 +115,19 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/airpods.jpeg"/>
+                                <img src="img/ponselthnair.jpeg" />
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Hidden Specs in Apple's AirPods: Hearing Aids</h1>
-                                
+                                <h1 class="sn-title">some waterproof cellphones ready to be taken out in the rain</h1>
                                 <p>
-                                True Wireless (TWS) or Apple's wireless earphones, AirPods, can be used to aid hearing. How come? Experts revealed that because the TWS meets four of the five standards for personal sound amplification products (PSAP) or personal sound amplification products.
+                                Since 2014, Samsung has been offering to the waterproof phone market since 2014 with the Galaxy S5. In 2022, Samsung offers the same feature on their Galaxy S22 line. This phone is powered by a Snapdragon 8 Gen 1 or Exynos 2200 processor. This phone's RAM can reach 128 GB on the ultra series. Not only that, the S22 is also equipped with a large battery and a screen with a 120Hz refresh rate. The Samsung S22 also has a camera with a high-resolution sensor, 8K recording and other features.
+                                <p>
+                                Apple also does not want to be left behind by its competitors. On the iPhone 13, from the mini series to the Pro Max, it is waterproof. The iPhone 13 line also has an IP68 label. The iPhone is equipped with 4GB of RAM, as well as the A15 Bionic processor. The front camera has a 12 MP sensor plus a 3D sensor. The iPhone 13 battery is in the 2000 mAh to 3000 mAh range.
+                                <p>
+                                xiaomi Mi 11 Ultra also features a waterproof feature. Xiaomi made the Mi 11 Ultra with a Qualcomm SM8350 processor and Snapdragon 888 5G. In the RAM sector, Mi 11 Ultra has variants ranging from 8GB to the highest 512GB. Xiaomi also pinned a triple rear camera with a 50 MP sensor, and two cameras with a 48 MP sensor.
+                                <p>
+                                </p>
 
-                                <br>
-                                    </br>
-                                Apple released a feature called "Live Listen" in 2016 that allows users to use AirPods and iPhones to do amplification or reinforcement of sound. These features make AirPods functionally similar to PSAP. This feature was designed by Apple for people with normal hearing to enjoy certain events such as bird watching.
-                                <p>
-                                Cheng and team then tested four devices with 21 participants who had mild to moderate hearing loss. The researchers read short sentences, such as "power bills went up recently," to the participants, which the participants would repeat word for word as they wore the devices. As a result, the researchers found that the AirPods Pro perform as well as regular hearing aids in quiet environments and slightly lower than premium hearing aids.
-                            </p>
                             </div>
                         </div>
                         <div class="sn-related">
@@ -128,9 +135,9 @@
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/apple.jpeg" />
+                                        <img src="img/airpods.jpeg" />
                                         <div class="sn-title">
-                                            <a href="Technology.php">Apple's Biggest Customer of 'Made in America' Chip, More Sophisticated iPhone?</a>
+                                        <a href="airpods.php">Hidden specs in apple airpods</a>
                                         </div>
                                     </div>
                                 </div>
@@ -166,13 +173,14 @@
                     <div class="col-lg-4">
                         <div class="sidebar">
                             <div class="sidebar-widget">
-                            </div>
+     
                             
                             <div class="sidebar-widget">
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
+                                        
                                         <li class="nav-item">
-                                            <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
+                                            <a class="nav-link active" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
@@ -268,12 +276,12 @@
                                     </div>
                                 </div>
                             </div>
-
+                                
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-                                        <li><a href="sport.php">Sports</a><span>(98)</span></li>
+                                    <li><a href="sport.php">Sports</a><span>(98)</span></li>
                                         <li><a href="Entertaiment.php">Entertainment</a><span>(87)</span></li>
                                         <li><a href="Technology.php">Technology</a><span>(76)</span></li>
                                         <li><a href="Politics.php">Politics</a><span>(65)</span></li>
@@ -281,15 +289,18 @@
                                 </div>
                             </div>
 
+
+                            
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">Tags Cloud</h2>
                                 <div class="tags">
-                                    
-                                    <a href="sport.php">Sport</a>
-                                    <a href="Politics.php">Politics</a>
-                                    <a href="Entertaiment.php">Entertaiment</a>
-                                    <a href="Technology.php">Technology</a>
-                                    
+                                    <a href="">National</a>
+                                    <a href="">International</a>
+                                    <a href="">Economics</a>
+                                    <a href="">Politics</a>
+                                    <a href="">Lifestyle</a>
+                                    <a href="">Technology</a>
+                                    <a href="">Trades</a>
                                 </div>
                             </div>
                         </div>
@@ -407,3 +418,4 @@
         <script src="js/main.js"></script>
     </body>
 </html>
+

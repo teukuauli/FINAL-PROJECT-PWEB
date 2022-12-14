@@ -84,7 +84,7 @@
                             <a href="sport.php" class="nav-item nav-link">Sports</a>
                             <a href="Entertaiment.php" class="nav-item nav-link">Entertaiment</a>
                             <a href="Politics.php" class="nav-item nav-link">Politics</a>
-                            <a href="Technology.php" class="nav-item nav-link">Technology</a> 
+                            <a href="Technology.php" class="nav-item nav-link">Technology</a>
                         </div>
                         <div class="social ml-auto">
                             <a class="text-light" href="https://fb.com/templatemo" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
@@ -98,6 +98,14 @@
         </div>
         <!-- Nav Bar End -->
         
+        <!-- Breadcrumb Start -->
+        <div class="breadcrumb-wrap">
+            <div class="container">
+                <ul class="breadcrumb">
+                </ul>
+            </div>
+        </div>
+        <!-- Breadcrumb End -->
         
         
         <!-- Single News Start-->
@@ -107,20 +115,20 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/airpods.jpeg"/>
+                                <img src="img/instagram.jpeg" />
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">Hidden Specs in Apple's AirPods: Hearing Aids</h1>
-                                
+                                <h1 class="sn-title">Instagram's New Feature, Short Tweets But Not Tweets</h1>
                                 <p>
-                                True Wireless (TWS) or Apple's wireless earphones, AirPods, can be used to aid hearing. How come? Experts revealed that because the TWS meets four of the five standards for personal sound amplification products (PSAP) or personal sound amplification products.
+                                We started rolling out Notes, a new way to share your thoughts and see what your friends are up to. Notes are short posts of up to 60 characters using only text and emoji," explained Meta, Instagram's parent company, on its official website.
+                                <p>
+                                To create one, go to the top of your inbox, select followers you follow back or people on your Close Friends list, and your note will appear at the top of their inbox for 24 hours.
+                                <p>
+                                Thus, the short tweets presented by Instagram will not be the same as the tweets we know on Twitter. Notes even have fewer characters compared to Twitter, which now accommodates 280 characters in one tweet. Also, Notes won't appear in the feed, but only in the user's inbox. Notes are also shared only with limited users, i.e. followers you follow back or people on your Close Friends list.
+                                <p>
+                                Apart from Notes, Instagram also announced a new feature called Candid Stories which looks like the social media platform BeReal. Reporting from The Verge, this feature allows users to share images that contain shots from the front and rear cameras. The Candid Stories feature will provide daily reminders to capture the moments around the user.
+                                </p>
 
-                                <br>
-                                    </br>
-                                Apple released a feature called "Live Listen" in 2016 that allows users to use AirPods and iPhones to do amplification or reinforcement of sound. These features make AirPods functionally similar to PSAP. This feature was designed by Apple for people with normal hearing to enjoy certain events such as bird watching.
-                                <p>
-                                Cheng and team then tested four devices with 21 participants who had mild to moderate hearing loss. The researchers read short sentences, such as "power bills went up recently," to the participants, which the participants would repeat word for word as they wore the devices. As a result, the researchers found that the AirPods Pro perform as well as regular hearing aids in quiet environments and slightly lower than premium hearing aids.
-                            </p>
                             </div>
                         </div>
                         <div class="sn-related">
@@ -128,9 +136,9 @@
                             <div class="row sn-slider">
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/apple.jpeg" />
+                                        <img src="img/airpods.jpeg" />
                                         <div class="sn-title">
-                                            <a href="Technology.php">Apple's Biggest Customer of 'Made in America' Chip, More Sophisticated iPhone?</a>
+                                            <a href="airpods.php">Hidden specs in apple airpods</a>
                                         </div>
                                     </div>
                                 </div>
@@ -166,20 +174,20 @@
                     <div class="col-lg-4">
                         <div class="sidebar">
                             <div class="sidebar-widget">
-                            </div>
+     
                             
                             <div class="sidebar-widget">
                                 <div class="tab-news">
                                     <ul class="nav nav-pills nav-justified">
+                                        
                                         <li class="nav-item">
-                                            <a class="nav-link" data-toggle="pill" href="#popular">Popular</a>
+                                            <a class="nav-link active" data-toggle="pill" href="#popular">Popular</a>
                                         </li>
                                         <li class="nav-item">
                                             <a class="nav-link" data-toggle="pill" href="#latest">Latest</a>
                                         </li>
                                     </ul>
 
-                                    <div class="tab-content">
                                     <div class="tab-content">
                                         <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
@@ -229,7 +237,7 @@
                                                     <img src="img/instagram.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="instagram.php">Instagram's New Feature, Short Tweets But Not Tweets</a>
+                                                    <a href="">Instagram's New Feature, Short Tweets But Not Tweets</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
@@ -268,28 +276,32 @@
                                     </div>
                                 </div>
                             </div>
-
+                                
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-                                        <li><a href="sport.php">Sports</a><span>(98)</span></li>
-                                        <li><a href="Entertaiment.php">Entertainment</a><span>(87)</span></li>
-                                        <li><a href="Technology.php">Technology</a><span>(76)</span></li>
-                                        <li><a href="Politics.php">Politics</a><span>(65)</span></li>
+                                        
+                                    <li><a href="Politics.php">Politics</a><span>(65)</span></li>
+                                        <li><a href="Entertaiment.php">Entertaiment</a><span>(54)</span></li>
+                                        <li><a href="sport.php">sport</a><span>(43)</span></li>
+                                        <li><a href="Technology.php">Tech</a><span>(32)</span></li>
                                     </ul>
                                 </div>
                             </div>
 
+
+                            
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">Tags Cloud</h2>
                                 <div class="tags">
-                                    
-                                    <a href="sport.php">Sport</a>
-                                    <a href="Politics.php">Politics</a>
-                                    <a href="Entertaiment.php">Entertaiment</a>
-                                    <a href="Technology.php">Technology</a>
-                                    
+                                    <a href="">National</a>
+                                    <a href="">International</a>
+                                    <a href="">Economics</a>
+                                    <a href="">Politics</a>
+                                    <a href="">Lifestyle</a>
+                                    <a href="">Technology</a>
+                                    <a href="">Trades</a>
                                 </div>
                             </div>
                         </div>
@@ -407,3 +419,4 @@
         <script src="js/main.js"></script>
     </body>
 </html>
+

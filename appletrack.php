@@ -182,94 +182,94 @@
                                     </ul>
 
                                     <div class="tab-content">
-                                    <div id="popular" class="container tab-pane active">
+                                    <div class="tab-content">
+                                        <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/senate.jpg" />
+                                                    <img src="img/ponselthnair.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Schumer: Senate will not leave without a freight rail agreement</a>
+                                                    <a href="tahanair.php">some waterproof cellphones ready to be taken out in the rain</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/biden and macron.jpg" />
+                                                    <img src="img/ios16.png" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Biden and Macron show united front ahead of bilateral meeting</a>
+                                                    <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/monkeypox.jpg" />
+                                                    <img src="img/baterai.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">White House eyes end of mpox emergency</a>
+                                                    <a href="">The World's Electric Vehicles Depend on Indonesian Batteries</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/biden in paris.webp" />
+                                                    <img src="img/tvanalog.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Biden enters a new type of tango with Paris</a>
+                                                    <a href="">analog tv will stop operating on december 20th</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/china protest.jpg" />
+                                                    <img src="img/speedtest.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">U.S. believes China protests won’t spread — for now</a>
+                                                    <a href="">comparison of internet speed in RI and Singapore</a>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div id="latest" class="container tab-pane fade">
+                                            <div id="latest" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/avert arail.webp" />
+                                                    <img src="img/instagram.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Congress Is Trying to Avert a Rail Strike. Here’s How and Why</a>
+                                                    <a href="instagram.php">Instagram's New Feature, Short Tweets But Not Tweets</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/water system in jackson.webp" />
+                                                    <img src="img/pildunapp.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Justice Dept. Strikes Deal to Address Struggling Water System in Jackson</a>
+                                                    <a href="">Beware of Fake World Cup Live Broadcast App, Thousands Got Viruses</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/mccarty investigate.webp" />
+                                                    <img src="img/teleskop.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">McCarthy Warns Jan. 6 Committee Republicans Will Investigate Its Work</a>
+                                                    <a href="">The James Webb Telescope Breaks the Record for the Most Distant Galaxy Detection</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/in georgia pace keep calm.webp" />
+                                                    <img src="img/meteor.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">In Georgia, Walker’s Pace in the Finish Worries Republican Allies</a>
+                                                    <a href="">Geminid Meteor Shower Will Soon Reach Its Peak, How Much Can It Be?</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/nato grow.webp" />
+                                                    <img src="img/macet.jpeg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">NATO Nations Grow More Receptive to U.S. Pleas to Confront China</a>
+                                                    <a href="">Google's AI Way to Break Down Jakarta Traffic: Outsmart the Red Light Duration</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">

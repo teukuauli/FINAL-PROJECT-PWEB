@@ -129,7 +129,7 @@
                                     <div class="sn-img">
                                         <img src="img/raffi ahmad.webp" />
                                         <div class="sn-title">
-                                            <a href="raffi.php">Raffi Ahmad Sekeluarga Nonton di Qatar</a>
+                                            <a href="raffi.php">Raffi Ahmad Sekeluarga Nonton Pildun di Qatar</a>
                                         </div>
                                     </div>
                                 </div>

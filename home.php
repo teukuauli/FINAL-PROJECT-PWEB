@@ -120,7 +120,7 @@ session_start();
                                 <div class="tn-img">
                                     <img src="img/rkuhp.jpeg" />
                                     <div class="tn-title">
-                                        <a href=".php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
+                                        <a href="rkuhp.php">RKUHP Disahkan RI, Amerika hingga Australia Teriak</a>
                                     </div>
                                 </div>
                             </div>
@@ -221,9 +221,9 @@ session_start();
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/ios16.png" />
+                                    <img src="img/iphone kabel c.jpeg" />
                                     <div class="cn-title">
-                                        <a href="">Ios 16 complains that it makes the cellphone battery wasteful</a>
+                                    <a href="iptypeC.php">Iphone will use type c cable</a>
                                     </div>
                                 </div>
                             </div>
@@ -251,25 +251,25 @@ session_start();
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-5.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                <img src="img/film wondering.jpg" />
+                                        <div class="cn-title">
+                                            <a href="filmmoon.php">Film The Wondering Moon</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-4.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                <img src="img/lary exo.jpeg" />
+                                        <div class="cn-title">
+                                            <a href="layexo.php">Lay exo balik ke Korea. Exo Bakal comeback</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-3.jpg" />
-                                    <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                <img src="img/raffi ahmad.webp" />
+                                        <div class="cn-title">
+                                            <a href="raffi.php">Raffi Ahmad Sekeluarga Nonton pildun di Qatar</a>
                                     </div>
                                 </div>
                             </div>
