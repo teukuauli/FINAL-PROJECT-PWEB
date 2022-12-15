@@ -116,7 +116,7 @@ session_start();
                 <div class="row">
                     <div class="col-md-6 tn-left">
                         <div class="row tn-slider">
-                            <div class="col-md-6">
+                            <div class="col-md-8">
                                 <div class="tn-img">
                                     <img src="img/rkuhp.jpeg" />
                                     <div class="tn-title">
@@ -124,7 +124,7 @@ session_start();
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-md-8">
                                 <div class="tn-img">
                                     <img src="img/australia alert ri.jpeg" />
                                     <div class="tn-title">
@@ -138,7 +138,7 @@ session_start();
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="tn-img">
-                                    <img src="img/outside sex.webp" />
+                                    <img src="img/sex.webp" />
                                     <div class="tn-title">
                                         <a href="outside sex.php">Indonesia passes criminal code banning sex outside marriage</a>
                                     </div>
@@ -184,7 +184,7 @@ session_start();
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/ronaldo world cup.jpg" />
+                                    <img src="img/dodontab.webp" />
                                     <div class="cn-title">
                                         <a href="sport.php">Cristiano Ronaldo a 'total genius' for winning Portugal penalty</a>
                                     </div>
@@ -192,7 +192,7 @@ session_start();
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/messidodo.webp" />
+                                    <img src="img/dodomesi.jpg" />
                                     <div class="cn-title">
                                         <a href="lastdance.php">Last dance</a>
                                     </div>
