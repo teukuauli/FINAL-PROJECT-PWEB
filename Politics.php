@@ -278,17 +278,10 @@
                                 <h2 class="sw-title">News Category</h2>
                                 <div class="category">
                                     <ul>
-<<<<<<< HEAD
                                     <li><a href="">Sports</a><span>(98)</span></li>
                                         <li><a href="">Entertainment</a><span>(87)</span></li>
                                         <li><a href="">Technology</a><span>(76)</span></li>
                                         <li><a href="">Politics</a><span>(65)</span></li>
-=======
-                                    <li><a href="Politics.php">Politics</a><span>(65)</span></li>
-                                        <li><a href="Entertaiment.php">Entertaiment</a><span>(54)</span></li>
-                                        <li><a href="sport.php">sport</a><span>(43)</span></li>
-                                        <li><a href="Technology.php">Tech</a><span>(32)</span></li>
->>>>>>> e54f952d06274f6fc215854ad8d7f0d8ca68088f
                                     </ul>
                                 </div>
                             </div>
@@ -298,13 +291,10 @@
                             <div class="sidebar-widget">
                                 <h2 class="sw-title">Tags Cloud</h2>
                                 <div class="tags">
-                                    <a href="">National</a>
-                                    <a href="">International</a>
-                                    <a href="">Economics</a>
-                                    <a href="">Politics</a>
-                                    <a href="">Lifestyle</a>
-                                    <a href="">Technology</a>
-                                    <a href="">Trades</a>
+                                    <a href="Technology.php">Technology</a>
+                                    <a href="Entertaiment.php">Entertaiment</a>
+                                    <a href="sport.php">Sport</a>
+                                    <a href="politics.php">Politics</a>
                                 </div>
                             </div>
                         </div>
@@ -355,58 +345,16 @@
                             </div>
                         </div>
                     </div>
-                    
-                   
-                    
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-widget">
-                            <h3 class="title">Newsletter</h3>
-                            <div class="newsletter">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed porta dui. Class aptent taciti sociosqu
-                                </p>
-                                <form>
-                                    <input class="form-control" type="email" placeholder="Your email here">
-                                    <button class="btn">Submit</button>
-                                </form>
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </div>
         <!-- Footer End -->
         
         <!-- Footer Menu Start -->
-        <div class="footer-menu">
-            <div class="container">
-                <div class="f-menu">
-                    <a href="">Terms of use</a>
-                    <a href="">Privacy policy</a>
-                    <a href="">Cookies</a>
-                    <a href="">Accessibility help</a>
-                    <a href="">Advertise with us</a>
-                    <a href="">Contact us</a>
-                </div>
-            </div>
-        </div>
+        
         <!-- Footer Menu End -->
 
-        <!-- Footer Bottom Start -->
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 copyright">
-                        <p>Copyright &copy; <a href="">Your Site Name</a>. All Rights Reserved</p>
-                    </div>
-
-                    <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    <div class="col-md-6 template-by">
-                        <p>Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
         <!-- Footer Bottom End -->
 
         <!-- Back to Top -->
