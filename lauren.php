@@ -114,71 +114,27 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/ronaldo world cup.jpg" />
+                                <img src="img/lauren.jpg" />
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">World Cup 2022: Cristiano Ronaldo a 'total genius' for winning Portugal penalty - Fifa</h1>
+                                <h1 class="sn-title">‘I run to find peace,’ says Marvel actress Lauren Ridloff after finishing her first marathon</h1>
                                 <p>
-                                    Cristiano Ronaldo has been called a "total genius" by Fifa for the way in which he won a penalty for Portugal in their World Cup victory over Ghana.
+                                
+“If you’re ever losing faith in human nature,” Kathrine Switzer, an influential figure in women’s running, once said, “go out and watch a marathon.”
 
-                                    The 37-year-old converted from the spot to become the first man to score at five different Fifa World Cups.
+It’s a thought that rang true with Lauren Ridloff on the streets of New York City earlier this month as she ran shoulder-to-shoulder with 50,000 others through the city’s five boroughs.
 
-                                    Portugal won 3-2, but the awarding of the spot-kick outraged Ghana boss Otto Addo, who said it was "not a penalty".
+Ridloff has been running most of her life – a form of solace in the busiest, most intense periods of her acting career. But the collective spirit and struggle of her fellow competitors at the NYC Marathon, her first time racing the 26.2-mile distance, was like nothing she had previously experienced in the sport.
 
-                                    At a briefing in Doha, Fifa technical study group (TSG) member Sunday Oliseh said strikers are "getting smarter".
+“This truly was a transformative experience for me,” Ridloff, whose recent credits include Marvel Studios’ “Eternals” and post-apocalyptic TV series “The Walking Dead,” tells CNN Sport.
 
-                                    The TSG, which is led by former Arsenal manager Arsene Wenger, looks at each match and provides analysis including performance data and trends.
-                                </p>
-                                <p>
-                                    After 20 games in this tournament, nine penalties have been awarded, which is on track to reach the previous record of 24 that were given in the group stages in Russia four years ago.
+“I really took in everybody’s energy and I felt so good,” she adds. “To see so many people moving in the same direction with the same goal and to arrive at the finish line – it’s hard to explain, truly, but it was a lovely feeling. It felt like a unity.”
 
-Poland's Robert Lewandowski and Canada's Alphonso Davies have seen their efforts saved, while the remaining seven have been scored.
+As she approached the end of the race in Central Park, Ridloff found herself at war with her body as she willed herself over the line – eventually finishing in four hours, five minutes and 48 seconds.
 
-This includes Ronaldo, who went down under a challenge from Southampton defender Mohammed Salisu. Former England defender Matt Upson, speaking on BBC Radio 5 Live, called it a "dive".
+“The very last mile, I just wanted to throw up,” she says. “I don’t know what happened, but all of a sudden I just felt the need to be done with it.”
 
-Ghana boss Addo was left fuming after the defeat and told BeIN Sports: "The referee gave a penalty which was not a penalty - everyone saw that. Why? Because it's Ronaldo or something?
 
-"The referee was not in our favour."
-
-But former Nigeria international Oliseh, who played at the 1998 World Cup, feels Ronaldo was clever in his movement to win the penalty that allowed him to score his 118th international goal.
-
-"Maybe the strikers are getting smarter?" said Oliseh.
-
-"The Ronaldo penalty, people can say what they want about him, but the smartness to wait for that second, to touch the ball, continue his leg and then get the contact. That is total genius.
-
-"Let's give strikers the compliment for getting smarter. VAR is also a major reason why this (more penalties being awarded) is happening. Referees can look at it three or four times."
-
-'Teams will become braver'
-There were four goalless games in the opening 16 matches, which set a new record of 25% in the first round of group games.
-
-A fifth followed on Friday as England and the United States played out a stalemate in their second game of the tournament in Qatar.
-
-The record number of 0-0 draws at the World Cup stands at seven, which happened at four different editions of the tournament, but Qatar 2022 is already close to that tally with only 20 of the 64 scheduled games completed before Saturday's matches.
-
-At the last World Cup in Russia, there was one goalless draw, between Denmark and France in a group game.
-
-"Teams have not wanted to take too much of a risk," said Oliseh.
-
-"Clearly many teams are relying on a cautious approach," added colleague Alberto Zaccheroni, who won Serie A with AC Milan and the Asian Cup when he was coach of Japan.
-
-"But as the tournament progresses we will see teams become a bit braver."
-
-Players 'feeling comfortable' with matchball
-A total of 49 goals have been scored in the 20 matches played by the end of Friday, 25 November.
-
-The first round of 16 games did not see a single goal scored from outside the box. Two have been scored from distance in the four games so far played in the second round of matches, which is significantly fewer than at this stage in the past two tournaments.
-
-Iran's Roozbeh Cheshmi broke the trend on Friday with a rasping strike against Wales, while later in the day, the Netherlands forward Cody Gakpo scored in a 1-1 draw with Ecuador.
-
-The 'Al Rihla' match ball developed for the World Cup is described by Fifa as "travelling faster than any ball" in the tournament's history.
-
-Global football's governing also said the ball "provides the highest levels of accuracy and reliability on the field of play".
-
-TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cup, told BBC Sport: "Technology has improved the game, it is helping the ball, boots, gloves, data. Everything is for the improvement of the game.
-
-"When you have good shooters, any kind of ball will be fast and dangerous. I have spoken with friends from all over the world, this is a ball they are all feeling comfortable with.
-
-"Us goalkeepers are always talking about the fast moving ball but everything is for the good of the game."
                                 </p>
                             </div>
                         </div>
@@ -249,76 +205,76 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/lauren.jpg" />
+                                                    <img src="img/news-350x223-3.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="lauren.php">‘I run to find peace,’ says Marvel actress Lauren Ridloff after finishing her first marathon</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/messidodo.webp" />
+                                                    <img src="img/news-350x223-2.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="lastdance.php">Last Dance</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/messi.jpg" />
+                                                    <img src="img/news-350x223-1.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lionel Messi confirms final will be last World Cup game ever as Argentina overpowers Croatia 3-0</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/maroko.jpg" />
+                                                    <img src="img/news-350x223-2.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Morocco on the verge of World Cup final but face toughest test against France</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div id="latest" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/youngboy.jpg" />
+                                                    <img src="img/news-350x223-3.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Young boy killed in France after hit by car following World Cup semifinal win</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/portugalmaroko.jpg" />
+                                                    <img src="img/news-350x223-4.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Morocco becomes first ever African team to reach World Cup semifinals with historic victory over Portugal</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/dodo.jpg" />
+                                                    <img src="img/news-350x223-5.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Cristiano Ronaldo speaks for first time since shock World Cup exit</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/mbappe.jpg" />
+                                                    <img src="img/news-350x223-4.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Kylian Mbappé is reaching speeds of 22 miles per hour at the World Cup. Can anyone stop him?</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/josko.jpg" />
+                                                    <img src="img/news-350x223-3.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Why are Croatia star Josko Gvardiol and others wearing masks at the World Cup?</a>
+                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
                                                 </div>
                                             </div>
                                         </div>

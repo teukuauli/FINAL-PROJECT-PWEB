@@ -184,25 +184,25 @@ session_start();
                         <div class="row cn-slider">
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-1.jpg" />
+                                    <img src="img/ronaldo world cup.jpg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="sport.php">Cristiano Ronaldo a 'total genius' for winning Portugal penalty</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-2.jpg" />
+                                    <img src="img/messidodo.webp" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="lastdance.php">Last dance</a>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-md-6">
                                 <div class="cn-img">
-                                    <img src="img/news-350x223-3.jpg" />
+                                    <img src="img/lauren.jpg" />
                                     <div class="cn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
+                                        <a href="lauren.php">‘I run to find peace,’ says Marvel actress Lauren Ridloff after finishing her first marathon</a>
                                     </div>
                                 </div>
                             </div>
@@ -478,104 +478,8 @@ session_start();
         </div>
         <!-- Tab News Start-->
 
-        <!-- Main News Start-->
-        <div class="main-news">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-9">
-                        <div class="row">
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/tunisia.webp" />
-                                    <div class="mn-title">
-                                        <a href="">Australia boost qualification chances with 1-0 win over Tunisia</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/monkeypox.jpg" />
-                                    <div class="mn-title">
-                                        <a href="">White House eyes end of mpox emergency</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/westlife.jpg" />
-                                    <div class="mn-title">
-                                        <a href="">Westlife singer Mark Feehily pulls out of shows due to pneumonia</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/news-350x223-4.jpg" />
-                                    <div class="mn-title">
-                                        <a href="">Lorem ipsum dolor sit</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/teleskop.jpeg" />
-                                    <div class="mn-title">
-                                        <a href="">The James Webb Telescope Breaks the Record for the Most Distant Galaxy Detection</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/mccarty investigate.webp" />
-                                    <div class="mn-title">
-                                        <a href="">McCarthy Warns Jan. 6 Committee Republicans Will Investigate Its Work</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/macet.jpeg" />
-                                    <div class="mn-title">
-                                        <a href="">Google's AI Way to Break Down Jakarta Traffic: Outsmart the Red Light Duration</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/nato grow.webp" />
-                                    <div class="mn-title">
-                                        <a href="">NATO Nations Grow More Receptive to U.S. Pleas to Confront China</a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="mn-img">
-                                    <img src="img/water system in jackson.webp" />
-                                    <div class="mn-title">
-                                        <a href="">Justice Dept. Strikes Deal to Address Struggling Water System in Jackson</a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3">
-                        <div class="mn-list">
-                            <h2>Read More</h2>
-                            <ul>
-                                <li><a href="">Lorem ipsum dolor sit amet</a></li>
-                                <li><a href="">Pellentesque tincidunt enim libero</a></li>
-                                <li><a href="">Morbi id finibus diam vel pretium enim</a></li>
-                                <li><a href="">Duis semper sapien in eros euismod sodales</a></li>
-                                <li><a href="">Vestibulum cursus lorem nibh</a></li>
-                                <li><a href="">Morbi ullamcorper vulputate metus non eleifend</a></li>
-                                <li><a href="">Etiam vitae elit felis sit amet</a></li>
-                                <li><a href="">Nullam congue massa vitae quam</a></li>
-                                <li><a href="">Proin sed ante rutrum</a></li>
-                                <li><a href="">Curabitur vel lectus</a></li>
-                            </ul>
-                        </div>
-                    </div>
+        
+                    
                 </div>
             </div>
         </div>
@@ -598,23 +502,10 @@ session_start();
                     <a class="text-light" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter fa-sm fa-fw me-2"></i></a>
                     <a class="text-light" href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin fa-sm fa-fw"></i></a>
                 </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    
-                    
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-widget">
-                            <h3 class="title">Newsletter</h3>
-                            <div class="newsletter">
-                                <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus sed porta dui. Class aptent taciti sociosqu
-                                </p>
-                                <form>
-                                    <input class="form-control" type="email" placeholder="Your email here">
-                                    <button class="btn">Submit</button>
-                                </form>
+                                                    </div>
+                                            </div>
+                                        </div>
+                                 </div>
                             </div>
                         </div>
                     </div>
@@ -638,21 +529,7 @@ session_start();
         </div>
         <!-- Footer Menu End -->
 
-        <!-- Footer Bottom Start -->
-        <div class="footer-bottom">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-6 copyright">
-                        <p>Copyright &copy; <a href="">Your Site Name</a>. All Rights Reserved</p>
-                    </div>
-
-                    <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                    <div class="col-md-6 template-by">
-                        <p>Designed By <a href="https://htmlcodex.com">HTML Codex</a></p>
-                    </div>
-                </div>
-            </div>
-        </div>
+        
         <!-- Footer Bottom End -->
 
         <!-- Back to Top -->
