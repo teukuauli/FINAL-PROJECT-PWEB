@@ -114,71 +114,17 @@
                     <div class="col-lg-8">
                         <div class="sn-container">
                             <div class="sn-img">
-                                <img src="img/ronaldo world cup.jpg" />
+                                <img src="img/youngboy.jpg" />
                             </div>
                             <div class="sn-content">
-                                <h1 class="sn-title">World Cup 2022: Cristiano Ronaldo a 'total genius' for winning Portugal penalty - Fifa</h1>
-                                <p>
-                                    Cristiano Ronaldo has been called a "total genius" by Fifa for the way in which he won a penalty for Portugal in their World Cup victory over Ghana.
+                                <h1 class="sn-title">A young boy died after being hit by a car Wednesday evening in the southern French city of Montpellier following France’s win over Morocco in the World Cup semifinal on Wednesday.
 
-                                    The 37-year-old converted from the spot to become the first man to score at five different Fifa World Cups.
+The boy was rushed to the hospital after the incident but died shortly after being admitted, Herault’s police chief Hugues Moutouh said in a statement.
 
-                                    Portugal won 3-2, but the awarding of the spot-kick outraged Ghana boss Otto Addo, who said it was "not a penalty".
+The statement said that a vehicle found near the scene of the accident has been seized. Herault’s police chief said the police investigation is “progressing rapidly” and is being overseen by the prosecutor’s office.
 
-                                    At a briefing in Doha, Fifa technical study group (TSG) member Sunday Oliseh said strikers are "getting smarter".
+The statement did not name the boy or his age.
 
-                                    The TSG, which is led by former Arsenal manager Arsene Wenger, looks at each match and provides analysis including performance data and trends.
-                                </p>
-                                <p>
-                                    After 20 games in this tournament, nine penalties have been awarded, which is on track to reach the previous record of 24 that were given in the group stages in Russia four years ago.
-
-Poland's Robert Lewandowski and Canada's Alphonso Davies have seen their efforts saved, while the remaining seven have been scored.
-
-This includes Ronaldo, who went down under a challenge from Southampton defender Mohammed Salisu. Former England defender Matt Upson, speaking on BBC Radio 5 Live, called it a "dive".
-
-Ghana boss Addo was left fuming after the defeat and told BeIN Sports: "The referee gave a penalty which was not a penalty - everyone saw that. Why? Because it's Ronaldo or something?
-
-"The referee was not in our favour."
-
-But former Nigeria international Oliseh, who played at the 1998 World Cup, feels Ronaldo was clever in his movement to win the penalty that allowed him to score his 118th international goal.
-
-"Maybe the strikers are getting smarter?" said Oliseh.
-
-"The Ronaldo penalty, people can say what they want about him, but the smartness to wait for that second, to touch the ball, continue his leg and then get the contact. That is total genius.
-
-"Let's give strikers the compliment for getting smarter. VAR is also a major reason why this (more penalties being awarded) is happening. Referees can look at it three or four times."
-
-'Teams will become braver'
-There were four goalless games in the opening 16 matches, which set a new record of 25% in the first round of group games.
-
-A fifth followed on Friday as England and the United States played out a stalemate in their second game of the tournament in Qatar.
-
-The record number of 0-0 draws at the World Cup stands at seven, which happened at four different editions of the tournament, but Qatar 2022 is already close to that tally with only 20 of the 64 scheduled games completed before Saturday's matches.
-
-At the last World Cup in Russia, there was one goalless draw, between Denmark and France in a group game.
-
-"Teams have not wanted to take too much of a risk," said Oliseh.
-
-"Clearly many teams are relying on a cautious approach," added colleague Alberto Zaccheroni, who won Serie A with AC Milan and the Asian Cup when he was coach of Japan.
-
-"But as the tournament progresses we will see teams become a bit braver."
-
-Players 'feeling comfortable' with matchball
-A total of 49 goals have been scored in the 20 matches played by the end of Friday, 25 November.
-
-The first round of 16 games did not see a single goal scored from outside the box. Two have been scored from distance in the four games so far played in the second round of matches, which is significantly fewer than at this stage in the past two tournaments.
-
-Iran's Roozbeh Cheshmi broke the trend on Friday with a rasping strike against Wales, while later in the day, the Netherlands forward Cody Gakpo scored in a 1-1 draw with Ecuador.
-
-The 'Al Rihla' match ball developed for the World Cup is described by Fifa as "travelling faster than any ball" in the tournament's history.
-
-Global football's governing also said the ball "provides the highest levels of accuracy and reliability on the field of play".
-
-TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cup, told BBC Sport: "Technology has improved the game, it is helping the ball, boots, gloves, data. Everything is for the improvement of the game.
-
-"When you have good shooters, any kind of ball will be fast and dangerous. I have spoken with friends from all over the world, this is a ball they are all feeling comfortable with.
-
-"Us goalkeepers are always talking about the fast moving ball but everything is for the good of the game."
                                 </p>
                             </div>
                         </div>
@@ -249,10 +195,10 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/lauren.jpg" />
+                                                    <img src="img/WCGROUP.WEBP" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="lauren.php">‘I run to find peace,’ says Marvel actress Lauren Ridloff after finishing her first marathon</a>
+                                                    <a href="worldgroup.php">WORLD CUP GROUPS ?</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
@@ -283,10 +229,10 @@ TSG member Faryd Mondragon, who played in goal for Colombia at the 1998 World Cu
                                         <div id="latest" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/youngboy.jpg" />
+                                                    <img src="img/tunisia.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="youngboy.php">Young boy killed in France after hit by car following World Cup semifinal win</a>
+                                                    <a href="tunisia.php">tunisia vs autralia 1-0</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">

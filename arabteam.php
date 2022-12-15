@@ -160,7 +160,7 @@
                                 </div>
                                 <div class="col-md-4">
                                     <div class="sn-img">
-                                        <img src="img/ISITFOTVALL.webp" />
+                                        <img src="img/soccer.webp" />
                                         <div class="sn-title">
                                             <a href="soccer.php">World Cup 2022: Why Americans call it soccer</a>
                                         </div>
@@ -190,90 +190,91 @@
                                     <div id="popular" class="container tab-pane active">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/tunisia.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="tunisia.php">Australia boost qualification chances with 1-0 win over Tunisia</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/lauren.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="lauren.php">‘I run to find peace,’ says Marvel actress Lauren Ridloff after finishing her first marathon</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-2.jpg" />
+                                                    <img src="img/messidodo.webp" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="lastdance.php">Last Dance</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-1.jpg" />
+                                                    <img src="img/messi.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Lionel Messi confirms final will be last World Cup game ever as Argentina overpowers Croatia 3-0</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-2.jpg" />
+                                                    <img src="img/maroko.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Morocco on the verge of World Cup final but face toughest test against France</a>
                                                 </div>
                                             </div>
                                         </div>
                                         <div id="latest" class="container tab-pane fade">
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/youngboy.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="youngboy.php">Young boy killed in France after hit by car following World Cup semifinal win</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/portugalmaroko.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Morocco becomes first ever African team to reach World Cup semifinals with historic victory over Portugal</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-5.jpg" />
+                                                    <img src="img/dodo.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Cristiano Ronaldo speaks for first time since shock World Cup exit</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-4.jpg" />
+                                                    <img src="img/mbappe.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Kylian Mbappé is reaching speeds of 22 miles per hour at the World Cup. Can anyone stop him?</a>
                                                 </div>
                                             </div>
                                             <div class="tn-news">
                                                 <div class="tn-img">
-                                                    <img src="img/news-350x223-3.jpg" />
+                                                    <img src="img/josko.jpg" />
                                                 </div>
                                                 <div class="tn-title">
-                                                    <a href="">Lorem ipsum dolor sit amet consec adipis elit</a>
+                                                    <a href="">Why are Croatia star Josko Gvardiol and others wearing masks at the World Cup?</a>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
+                        
                         
 
                             <div class="sidebar-widget">

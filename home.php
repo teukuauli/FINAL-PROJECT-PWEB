@@ -156,7 +156,7 @@ session_start();
                                 <div class="tn-img">
                                     <img src="img/new criminal code.webp" />
                                     <div class="tn-title">
-                                        <a href="">Indonesia: New Criminal Code Disastrous for Rights</a>
+                                        <a href="newcriminal.php">Indonesia: New Criminal Code Disastrous for Rights</a>
                                     </div>
                                 </div>
                             </div>
@@ -164,7 +164,7 @@ session_start();
                                 <div class="tn-img">
                                     <img src="img/lawmaker pass.jpg" />
                                     <div class="tn-title">
-                                        <a href="">Lawmakers pass revised Criminal Code despite protests</a>
+                                        <a href="lawmakerpass.php">Lawmakers pass revised Criminal Code despite protests</a>
                                     </div>
                                 </div>
                             </div>
