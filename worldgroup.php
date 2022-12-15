@@ -327,10 +327,10 @@ South Korea
                                 <div class="category">
                                     <ul>
                                         
+                                    <li><a href="sport.php">Sports</a><span>(98)</span></li>
+                                        <li><a href="Entertaiment.php">Entertainment</a><span>(87)</span></li>
+                                        <li><a href="Technology.php">Technology</a><span>(76)</span></li>
                                         <li><a href="Politics.php">Politics</a><span>(65)</span></li>
-                                        <li><a href="Entertaiment.php">Entertaiment</a><span>(54)</span></li>
-                                        <li><a href="sport.php">sport</a><span>(43)</span></li>
-                                        <li><a href="Technology.php">Tech</a><span>(32)</span></li>
                                     </ul>
                                 </div>
                             </div>
