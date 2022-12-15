@@ -193,8 +193,8 @@
         <script src="lib/easing/easing.min.js"></script>
         <script src="lib/slick/slick.min.js"></script>
 
-        <!-- Template Javascript -->
-        <script src="js/main.js"></script>
+        <!-- Template Javascript
+        <script src="js/main.js"></script> -->
 
     </body>
     

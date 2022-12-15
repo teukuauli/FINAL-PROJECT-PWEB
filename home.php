@@ -43,7 +43,7 @@ session_start();
                     </div>
                     <div class="col-md-6">
                         <div class="tb-menu">
-                            <a href="Logout.php" class="nav-item nav-link">Logout</a>
+                            <a href="includes/logout.inc.php" class="nav-item nav-link">Logout</a>
                         </div>
                     </div>
                 </div>

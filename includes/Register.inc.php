@@ -39,4 +39,26 @@ if(isset($_POST['submit']))
         exit();
      }
 
-   
+   // if (isset($_GET["error"])) {
+   //    if ($_GET["error"] == "emptyinput"){
+   //       echo "<p> Fill in all fields!</p>";
+   //    }
+   //    else if ($_GET["error"] == "inalidUid"){
+   //       echo "<p> Choose a prooper username!</p>";
+   //    }
+   //    else if ($_GET["error"] == "inalidEmail"){
+   //       echo "<p> Choose a prooper email!</p>";
+   //    }
+   //    else if ($_GET["error"] == "passworddontmatch"){
+   //       echo "<p> Passwords doesn't match</p>";
+   //    }
+   //    else if ($_GET["error"] == "stmtfailed"){
+   //       echo "<p> Something went wrong</p>";
+   //    }
+   //    else if ($_GET["error"] == "usernametaken"){
+   //       echo "<p> username already taken</p>";
+   //    }
+   //    else if ($_GET["error"] == "none"){
+   //       echo "<p> Register Success </p>";
+   //    }
+   // }
