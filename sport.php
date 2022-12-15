@@ -36,8 +36,7 @@
                     </div>
                     <div class="col-md-6">
                         <div class="tb-menu">
-                            <a href="Register.php" class="nav-item nav-link">Register</a>
-                            <a href="Login.php" class="nav-item nav-link">Login</a>
+                            <a href="includes/logout.inc.php" class="nav-item nav-link">Logout</a>
                         </div>
                     </div>
                 </div>
